@@ -1,0 +1,22 @@
+{
+    "food": "food",
+    "transportation": "transportation",
+    "education": "education",
+    "utilities": "utilities",
+    "entertainment": "entertainment",
+    "groceries": "groceries",
+    "fitness": "fitness",
+    "health": "health",
+    "housing": "housing",
+    "shopping": "shopping",
+    "fuel": "fuel",
+    "dining": "dining",
+    "travel": "travel",
+    "personal care": "personal care",
+    "gifts": "gifts",
+    "donations": "donations",
+    "sports": "sports",
+    "electronics": "electronics",
+    "grooming": "grooming",
+    "income": "income"
+}

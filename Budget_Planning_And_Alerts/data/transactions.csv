@@ -1,0 +1,392 @@
+description,category,clean_description,transaction_id,amount,date,time
+banana,food,banana,3caab516,310.65,25-07-2024,03:05:42
+biscuit,food,biscuit,38fcdf0d,245.63,26-09-2025,08:06:28
+books,education,books,a3cbd43f,149.09,17-06-2024,19:13:38
+bread,food,bread,65be8e26,334.13,23-01-2024,19:39:05
+breakfast,food,breakfast,38db7f84,369.34,13-10-2025,10:27:08
+brownie,food,brownie,63e33c6f,394.37,16-09-2024,04:30:25
+brunch,food,brunch,61467eec,130.12,12-12-2025,12:40:49
+bun,food,bun,79c1c19e,431.13,12-04-2025,06:17:56
+car payment,transportation,car payment,876134d9,301.21,08-06-2024,19:26:37
+car wash,transportation,car wash,b71d965e,179.66,14-11-2025,16:25:54
+chocolate,food,chocolate,1db7cead,462.66,22-06-2025,10:28:16
+clothes,shopping,clothes,05dbd289,166.01,26-08-2024,19:16:21
+coconut water,food,coconut water,c73d80ed,301.76,31-05-2024,01:02:32
+coffee,food,coffee,c0ada263,342.29,24-05-2025,12:51:48
+concerts,entertainment,concerts,c498693e,465.56,15-04-2025,14:03:44
+corn,food,corn,e6239d1d,153.73,07-07-2024,21:59:57
+dinner,food,dinner,819d9003,341.41,15-09-2024,06:46:32
+doctor,health,doctor,1c144350,44.83,26-03-2025,15:09:53
+drinks,food,drinks,5959cf9c,425.15,18-09-2025,05:51:11
+eggs,food,eggs,5f56d12c,16.51,25-12-2024,07:46:08
+electricity bill,utilities,electricity bill,86a9af0b,394.01,29-05-2025,03:05:21
+eye glasses,health,eye glasses,3f5e29c0,69.84,12-07-2024,17:00:51
+fruit,food,fruit,cba9c805,57.63,19-05-2024,23:03:59
+gas station,transportation,gas station,66473c98,471.24,06-04-2024,11:05:33
+gasoline,fuel,gasoline,cbf2a115,269.05,30-05-2024,18:29:48
+grocery Shopping,groceries,grocery shopping,1ed83aae,122.25,15-04-2025,07:08:18
+gym,fitness,gym,71a44cc7,75.32,09-01-2025,11:44:37
+haircut,personal care,haircut,268c114e,439.01,20-11-2025,02:38:01
+hospital,health,hospital,565a7cb0,210.85,14-12-2024,16:14:46
+ice cream,food,ice cream,45b8437c,499.92,19-07-2025,11:40:46
+internet bill,utilities,internet bill,d7ba7d2d,120.96,02-12-2025,09:37:51
+lunch,food,lunch,e5643878,92.93,31-07-2024,15:26:51
+mcdonald's,food,mcdonald,026bffd8,378.99,23-02-2024,02:39:07
+medical,health,medical,bd46d089,230.68,21-06-2025,13:38:14
+milk,food,milk,41ebed1a,230.85,06-02-2025,18:36:14
+momos,food,momos,5138e83c,278.64,11-04-2024,00:22:41
+mortage,housing,mortage,0d6ab141,307.86,06-02-2024,19:18:49
+movie tickets,entertainment,movie tickets,e70c20f3,341.37,14-03-2024,18:45:37
+parking,transportation,parking,ed7faca6,54.44,15-03-2025,19:57:46
+pedicure,personal care,pedicure,17b2325d,378.31,31-08-2025,07:24:45
+pepsi,food,pepsi,8b48a151,153.93,25-06-2024,13:05:28
+phone bill,utilities,phone bill,e68e0a6c,8.14,29-08-2025,17:26:45
+pizza,food,pizza,e8e9c5c3,490.07,08-08-2024,06:59:59
+public transportation,transportation,public transportation,2b651cc5,216.5,13-11-2024,07:08:34
+ramen with gobi,food,ramen gobi,ac9dab04,313.26,31-05-2025,04:44:28
+restaurant bill,dining,restaurant bill,1d676497,266.26,14-09-2024,16:43:26
+snack,food,snack,99ac5e26,109.01,30-01-2024,18:58:09
+subway fare,transportation,subway fare,8c96ef7a,373.67,21-09-2025,03:24:15
+tea lights,food,tea lights,27730887,437.9,12-06-2024,04:03:24
+tolls,transportation,tolls,63e368d3,406.93,02-01-2024,17:08:58
+travel,transportation,travel,c8cdd414,216.36,18-08-2024,20:22:07
+uber,transportation,uber,2344469d,268.97,23-06-2024,10:43:29
+vacations,travel,vacations,a28fbbf0,5.66,04-02-2024,16:00:28
+vegetables,food,vegetables,19991676,461.72,17-01-2024,17:03:56
+water,food,water,b759dae5,411.72,19-06-2025,09:02:27
+meal,food,meal,af5215e6,385.97,14-06-2024,21:27:56
+zomato,food,zomato,0f7ec07f,467.9,29-10-2024,10:16:34
+metro,transportation,metro,65c4d374,135.01,14-11-2024,23:27:15
+auto,transportation,auto,5afd28bf,358.91,10-07-2025,14:30:45
+bus ticket,transportation,bus ticket,854572fc,395.66,06-12-2024,01:01:15
+cab,transportation,cab,9ef4ff86,467.04,13-04-2024,13:20:57
+taxi,transportation,taxi,9909650f,463.24,17-03-2024,13:26:02
+hoodie,shopping,hoodie,ff3f6ad0,415.85,03-04-2024,00:36:23
+cap,shopping,cap,34267320,109.1,11-12-2025,15:44:47
+earphone,shopping,earphone,f341e522,211.98,13-12-2024,04:20:00
+belt,shopping,belt,fe013b0b,432.23,15-05-2025,18:49:50
+mask,health,mask,04a24879,359.85,21-09-2025,17:19:56
+shoes,shopping,shoes,0f1e6953,77.41,19-09-2025,14:01:31
+mirror,shopping,mirror,59eceade,284.64,08-02-2024,15:38:41
+bus ticket,transportation,bus ticket,d8efa0be,19.52,27-02-2025,22:44:08
+medical expenses,health,medical expenses,2f663bd5,494.28,05-02-2024,15:24:52
+car payment,transportation,car payment,3c15fcaa,47.17,06-11-2024,01:49:55
+internet,utilities,internet,4110a12a,63.28,14-10-2024,14:48:41
+phone,utilities,phone,422f14d8,189.36,11-04-2024,05:08:20
+health insurance,health,health insurance,e570368f,335.34,13-12-2025,19:49:08
+clothing,shopping,clothing,2245f0f6,498.97,26-04-2025,12:32:00
+prescriptions,health,prescriptions,a8767f0e,16.16,20-12-2024,23:58:44
+netflix,entertainment,netflix,91dfffe0,32.22,21-09-2025,06:19:47
+amazon prime,entertainment,amazon prime,4976d222,25.2,02-05-2024,12:53:34
+sporting events,entertainment,sporting events,aa001f9a,11.28,09-07-2024,03:55:11
+yoga classes,fitness,yoga classes,a779da52,138.47,06-01-2024,10:18:33
+subscriptions,entertainment,subscriptions,360b0378,247.59,29-12-2024,12:53:32
+flights,transportation,flights,bc8f1b32,306,28-05-2025,17:21:21
+gifts,gifts,gifts,18c6d6e1,425.65,09-08-2025,19:01:22
+donations,donations,donations,200b687d,284.13,31-01-2024,02:09:27
+home repair,housing,home repair,dc7e3f31,77.37,29-10-2024,17:32:13
+pet expenses,other,pet expenses,4e9b1628,118.02,08-02-2025,20:38:05
+medicine,health,medicine,99f8f23b,267.29,25-06-2025,06:26:21
+fill petrol,fuel,fill petrol,10229dc2,360.99,16-10-2025,00:31:46
+paid school fees,education,paid school fees,3b50cb5b,276.28,31-01-2025,05:25:15
+college fees payment,education,college fees payment,26d96a61,445.68,04-11-2024,10:07:55
+amazon prime,entertainment,amazon prime,47aedb56,281.44,14-08-2024,15:37:15
+college fees payment,education,college fees payment,824bb5b1,14.41,05-06-2025,01:52:07
+bus ticket,transportation,bus ticket,9864e62b,281.4,03-10-2024,08:49:55
+yoga classes,fitness,yoga classes,01ae246f,409.86,28-05-2024,12:12:27
+yoga classes,fitness,yoga classes,e2134209,242.29,19-05-2025,10:03:48
+gas station,transportation,gas station,ef87e3f8,310.41,17-05-2024,07:39:38
+gifts,other,gifts,d8222bd9,280.96,20-07-2025,06:59:19
+showergel,grooming,showergel,d83f3d22,188.18,06-02-2024,07:12:58
+keratin treatment,grooming,keratin treatment,6fb8ea7c,65.07,07-09-2025,07:34:18
+hospital,health,hospital,5bf9d629,9.86,04-04-2024,03:36:54
+flights,travel,flights,1be67a2c,101.28,19-05-2025,09:05:33
+cap,shopping,cap,31416ebd,185.93,05-04-2025,11:51:27
+internet bill,utilities,internet bill,7d08e3b1,78.24,14-04-2024,20:36:53
+movie tickets,entertainment,movie tickets,b6efd236,44.64,04-11-2024,17:19:43
+recharge mobile,utilities,recharge mobile,780b922a,411.74,24-01-2024,04:07:44
+recharge mobile,utilities,recharge mobile,f9dae795,396.95,27-03-2024,12:13:05
+biscuit,food,biscuit,b3360ca9,335.76,23-05-2024,23:10:03
+gym,fitness,gym,dead0895,251.34,07-08-2025,12:27:44
+mortage,housing,mortage,00c4bdd5,442.36,28-10-2025,19:38:56
+mirror,shopping,mirror,e511f459,89.46,15-09-2025,09:57:50
+rent,housing,rent,b5219efa,314.58,01-10-2024,13:16:38
+vacations,travel,vacations,11232300,118.65,20-06-2024,12:26:36
+concerts,entertainment,concerts,e761d00d,401.1,19-09-2024,22:33:34
+gas station,transportation,gas station,9c1d2889,419.81,18-09-2024,16:43:08
+flights,travel,flights,e7648c6d,493.14,10-10-2024,15:36:08
+electricity bill,utilities,electricity bill,23f7e5c7,427.74,11-09-2025,11:05:47
+netflix,entertainment,netflix,c0d70406,359.06,14-05-2024,21:11:13
+gifts,other,gifts,6c3d4622,273.13,15-06-2024,11:42:01
+gym,fitness,gym,7f6d4dd2,238.1,12-02-2024,04:41:09
+hoodie,shopping,hoodie,6069f299,18.41,23-07-2024,14:56:05
+home repair,housing,home repair,72e368b2,57.07,13-06-2024,21:19:58
+doctor,health,doctor,29d347f5,130.65,28-06-2024,05:30:58
+concerts,entertainment,concerts,e06a2606,249.35,27-10-2025,04:44:28
+coffee,food,coffee,08d4b470,355.34,31-01-2024,00:41:31
+paid gym membership fee,fitness,paid gym membership fee,ebfccf0a,385.23,16-02-2024,07:53:51
+showergel,grooming,showergel,e538b608,220.48,01-12-2025,18:50:09
+college fees payment,education,college fees payment,cc3c2148,163.6,01-08-2025,19:02:25
+spotify,entertainment,spotify,fd4e4a69,276.28,18-03-2025,09:09:25
+gifts,other,gifts,ee3786bc,426.37,08-03-2024,12:49:20
+donations,other,donations,9ec343a2,137.52,08-03-2024,07:07:42
+recharge mobile,utilities,recharge mobile,31dd74f5,440.58,03-10-2024,12:43:23
+internet bill,utilities,internet bill,8204c7be,83.17,12-05-2024,11:49:58
+pizza,food,pizza,edb3a8b6,163.44,16-11-2025,16:50:53
+gifts,other,gifts,ca9a6742,130.39,12-11-2024,16:05:45
+spotify,entertainment,spotify,ee486bd6,105.4,23-09-2024,22:16:02
+recharge mobile,utilities,recharge mobile,3c34564c,103.32,26-08-2025,20:38:08
+internet bill,utilities,internet bill,ff8f495b,424.17,27-04-2024,14:54:59
+college fees payment,education,college fees payment,41fbd2c2,107.79,07-11-2024,06:40:02
+recharge mobile,utilities,recharge mobile,64745a4b,337.19,18-08-2024,23:04:15
+milk,food,milk,918c937c,343.23,05-09-2024,00:07:33
+books,education,books,84f51692,118.49,27-09-2025,21:47:22
+home repair,housing,home repair,dbc2837d,473.34,18-06-2025,23:27:20
+doctor,health,doctor,b60af7fc,235.08,13-03-2024,03:06:43
+manicure,grooming,manicure,7c3c83b2,208.17,24-01-2024,05:39:25
+books,education,books,902fc92c,441.17,13-11-2025,00:10:41
+concerts,entertainment,concerts,0481e76f,306.93,22-02-2024,17:29:34
+hoodie,shopping,hoodie,809f2e1e,458.76,15-11-2024,14:20:43
+gym,fitness,gym,5176145e,307.03,13-03-2025,03:34:55
+subway fare,transportation,subway fare,cc9c2c48,288,30-08-2025,15:39:15
+vacations,travel,vacations,a2b184e6,83.04,05-07-2025,21:48:28
+rent,housing,rent,8a8ba9a7,408.6,04-05-2025,05:09:28
+pet expenses,other,pet expenses,e4a00403,375.31,04-04-2024,05:18:04
+car payment,transportation,car payment,98292669,254.11,28-09-2025,00:20:36
+paid school fees,education,paid school fees,088166b1,208.69,29-01-2025,01:30:24
+concerts,entertainment,concerts,70131f56,6.4,22-04-2024,06:55:12
+spotify,entertainment,spotify,bdc5fdeb,98.52,15-01-2024,16:22:15
+bus ticket,transportation,bus ticket,247c967b,61.13,10-12-2025,00:15:57
+recharge mobile,utilities,recharge mobile,4a439591,485.19,04-05-2025,22:34:42
+college fees payment,education,college fees payment,a35587fb,380.19,19-05-2025,22:36:55
+showergel,grooming,showergel,613bd6e9,496.72,05-12-2025,21:23:23
+paid school fees,education,paid school fees,528314fd,426.01,19-11-2024,20:15:19
+vacations,travel,vacations,b7935f61,371.36,06-04-2025,07:34:25
+clothes,shopping,clothes,b3379aeb,384.07,06-12-2025,05:33:37
+hospital,health,hospital,1df65fdc,73.88,31-01-2024,06:06:36
+recharge mobile,utilities,recharge mobile,d3a9d29b,407.46,29-03-2024,16:19:37
+paid gym membership fee,fitness,paid gym membership fee,85156d95,400.6,28-08-2025,08:42:19
+pedicure,grooming,pedicure,074e1699,51.67,13-11-2024,22:55:59
+electricity bill,utilities,electricity bill,1a6edef2,169.67,31-08-2025,12:55:03
+home repair,housing,home repair,0231df77,317.4,19-07-2025,12:40:24
+dentist,health,dentist,927fc5fb,485.83,30-01-2025,14:36:59
+purchase notebook,education,purchase notebook,535ea04c,406.32,05-09-2025,06:53:47
+netflix,entertainment,netflix,b99cc1ed,287.39,06-01-2024,06:21:12
+pizza,food,pizza,c6db5089,247.19,03-09-2025,00:12:44
+showergel,grooming,showergel,66472ad4,143.28,22-02-2024,09:30:54
+phone bill,utilities,phone bill,2dc04c62,343.02,17-08-2025,03:43:32
+books,education,books,ecc44d86,386.2,26-12-2025,23:05:47
+home repair,housing,home repair,59d14532,378.91,24-01-2025,08:18:38
+subway fare,transportation,subway fare,dca3f071,25.75,11-01-2025,15:31:37
+flights,travel,flights,f9c45589,232.39,04-10-2024,02:50:18
+public transportation,transportation,public transportation,7775a667,8.18,08-03-2024,11:39:19
+haircut,grooming,haircut,d0fabe24,416.09,14-06-2025,17:52:28
+public transportation,transportation,public transportation,63c1f575,98.99,17-11-2024,02:12:58
+vacations,travel,vacations,f88d3ac0,96.76,19-08-2024,00:13:42
+water,food,water,7b2080f9,433.78,13-01-2024,06:06:22
+yoga classes,fitness,yoga classes,17a0050a,428.35,23-07-2025,01:03:18
+medicine,health,medicine,6fe50285,15.27,10-04-2024,18:01:56
+manicure,grooming,manicure,734de820,145.01,15-06-2024,00:17:11
+vacations,travel,vacations,9d6ff6fc,229.29,14-02-2024,09:32:15
+internet bill,utilities,internet bill,f3ce9576,261.44,28-01-2024,01:00:39
+gym,fitness,gym,b31fff18,334.14,17-03-2025,15:26:09
+medical prescription,groceries,medical prescription,6cae4b19,344.88,22-03-2025,13:21:00
+electricity bill,health,electricity bill,22e5c775,488.91,03-11-2024,12:12:26
+new phone,housing,new phone,76fa904d,471.35,06-02-2025,17:02:50
+coffee,housing,coffee,836bed94,158.54,08-08-2024,07:50:24
+medical prescription,housing,medical prescription,8b83d8f2,368.46,09-10-2024,21:03:31
+gas station,transportation,gas station,e9610890,269.59,24-12-2025,13:24:45
+donation,fitness,donation,72c3ebe8,402.91,18-06-2024,01:08:30
+electricity bill,health,electricity bill,b50a5efc,325.89,04-12-2024,17:22:31
+hotel booking,entertainment,hotel booking,bd415e25,95.44,14-02-2024,19:07:32
+medical prescription,entertainment,medical prescription,8331d28c,17.78,14-07-2025,08:34:27
+medical prescription,fitness,medical prescription,db944b11,321.83,09-11-2024,08:58:00
+dinner,food,dinner,8e32add2,334.55,25-08-2024,19:07:13
+hotel booking,groceries,hotel booking,5d8c12ad,209.06,19-11-2024,01:55:02
+bought groceries,health,bought groceries,f15b79e1,209.65,29-08-2024,14:27:00
+donation,shopping,donation,d4efcfc2,46.85,13-10-2025,04:37:41
+gym membership,fitness,gym membership,4c0f673b,58.83,30-04-2025,13:47:32
+flight ticket,groceries,flight ticket,2141fa31,320.92,03-10-2024,21:30:45
+lunch,shopping,lunch,a6cf265d,115.66,11-09-2025,21:44:47
+online shopping,utilities,online shopping,713b1356,357.11,19-11-2024,05:27:02
+new phone,groceries,new phone,195a3910,320.69,04-10-2024,18:36:17
+bought groceries,utilities,bought groceries,0f2436be,344.29,16-05-2025,23:03:27
+bought groceries,groceries,bought groceries,1add83da,300.59,02-07-2025,20:01:19
+donation,food,donation,2fc6cf15,199.32,08-07-2024,08:29:51
+electricity bill,fitness,electricity bill,c577ee00,314.77,13-08-2024,01:56:04
+new phone,health,new phone,0953e09f,471.74,27-01-2025,19:54:34
+gas station,shopping,gas station,e6891dac,128.13,22-12-2025,07:13:10
+coffee,utilities,coffee,50d0cfbd,257.34,09-07-2025,16:54:00
+hospital bill,transportation,hospital bill,2a4a1f26,200.25,10-12-2024,13:15:06
+rent payment,utilities,rent payment,60347f52,186,06-08-2024,15:25:41
+hospital bill,fitness,hospital bill,69eddf62,419.07,20-04-2025,21:10:34
+electricity bill,transportation,electricity bill,ea8ea80c,171.26,09-03-2025,19:39:41
+bought groceries,food,bought groceries,dd198e51,69.75,22-09-2024,18:58:40
+gym membership,housing,gym membership,19674348,248.9,01-01-2024,08:14:08
+paid college fees,transportation,paid college fees,6fd375e2,40.48,22-04-2024,02:11:34
+new phone,utilities,new phone,0f36c7e2,36.36,24-11-2024,17:57:41
+flight ticket,health,flight ticket,88283f56,469.63,30-11-2025,16:16:32
+gym membership,utilities,gym membership,2357948e,442.19,18-12-2025,21:21:50
+bought groceries,fitness,bought groceries,76502689,94.66,04-09-2024,16:44:53
+coffee,transportation,coffee,9412e23e,279.17,29-07-2025,02:37:33
+bus ticket,health,bus ticket,8ede6aef,27.23,23-08-2024,07:13:59
+lunch,utilities,lunch,103a3935,181.81,04-02-2025,07:54:44
+flight ticket,entertainment,flight ticket,9f94b08a,249.53,09-02-2025,11:42:33
+rent payment,housing,rent payment,8551bd44,160.31,09-09-2024,13:47:16
+electricity bill,groceries,electricity bill,b97f03a9,350.29,29-01-2024,09:40:50
+online shopping,shopping,online shopping,02f81c75,241.96,10-06-2025,06:55:18
+flight ticket,utilities,flight ticket,885e9f60,401,31-10-2025,19:49:52
+bought groceries,shopping,bought groceries,5bbc3ec7,27.63,31-10-2024,05:46:43
+bought groceries,fitness,bought groceries,4e779256,38.16,14-02-2024,13:11:43
+bus ticket,transportation,bus ticket,9dc1750c,234.19,16-12-2024,16:44:21
+bought groceries,food,bought groceries,9d294653,238.19,25-12-2024,08:28:08
+movie tickets,utilities,movie tickets,fd726fed,290.14,12-11-2024,04:50:29
+electricity bill,food,electricity bill,1d70291c,451.43,29-12-2025,22:35:37
+lunch,housing,lunch,311cc386,33.12,12-02-2024,04:33:44
+medical prescription,food,medical prescription,161ea2c9,315.18,20-03-2025,21:17:53
+donation,housing,donation,87c2ac5e,65.74,22-01-2025,19:59:16
+lunch,shopping,lunch,074f40a7,229.14,09-09-2024,05:14:40
+rent payment,transportation,rent payment,3908ace8,68.91,15-09-2025,00:54:47
+coffee,transportation,coffee,e3ffacda,47.08,13-02-2024,21:55:23
+bus ticket,fitness,bus ticket,13d485d4,20.38,21-07-2025,00:24:59
+hospital bill,entertainment,hospital bill,3cee0780,489.52,16-10-2025,07:09:08
+online shopping,food,online shopping,48476659,68.83,19-04-2024,11:14:35
+medical prescription,fitness,medical prescription,54b31133,253.94,02-05-2025,07:33:22
+movie tickets,shopping,movie tickets,b9b5baa3,14.35,13-06-2024,06:05:36
+rent payment,utilities,rent payment,6ce0faeb,231.38,12-02-2025,03:09:53
+rent payment,transportation,rent payment,c24f85ca,71.65,18-01-2024,19:53:32
+rent payment,entertainment,rent payment,dbfdb75e,243.68,15-04-2024,21:25:36
+lunch,transportation,lunch,df9297c2,86.15,06-03-2025,17:22:05
+new phone,fitness,new phone,e3fc41ba,69.17,25-03-2025,00:55:50
+rent payment,entertainment,rent payment,c2f06389,344.78,25-09-2025,03:50:19
+gym membership,transportation,gym membership,094ab4de,355.43,24-06-2025,03:13:35
+gym membership,fitness,gym membership,1a019862,174.73,25-06-2025,20:10:13
+dinner,housing,dinner,deb5d883,301.32,14-09-2024,01:27:13
+hospital bill,health,hospital bill,7326c9f2,474.45,29-09-2025,12:14:46
+gas station,housing,gas station,b5a3d332,156.58,24-12-2024,00:02:16
+dinner,shopping,dinner,ce6fd7e2,472.12,20-07-2024,05:58:31
+coffee,health,coffee,02ccc947,388.46,26-03-2025,04:03:02
+donation,groceries,donation,17fadd9d,227.78,25-01-2025,06:37:53
+movie tickets,transportation,movie tickets,9ffd164f,29.08,19-06-2025,04:58:00
+bus ticket,fitness,bus ticket,90450448,175.58,11-07-2025,19:39:51
+new phone,health,new phone,566ee6ed,402.07,25-01-2024,20:31:47
+movie tickets,utilities,movie tickets,c68b35df,352.43,09-07-2025,09:10:10
+bought groceries,transportation,bought groceries,ff613e9c,258.4,20-10-2025,06:02:12
+bought groceries,transportation,bought groceries,07eb2c73,160.62,03-02-2025,02:43:29
+flight ticket,food,flight ticket,870c3729,86.99,12-06-2024,17:06:43
+coffee,shopping,coffee,6dbc3496,372.43,18-03-2025,10:40:04
+new phone,food,new phone,13ffbda5,197.71,11-12-2025,22:02:52
+donation,utilities,donation,fc2c23f9,295.55,26-02-2025,13:43:05
+donation,fitness,donation,586b1b21,130.67,21-05-2024,15:22:13
+lunch,utilities,lunch,71acf38e,220.03,18-04-2025,06:17:30
+rent payment,food,rent payment,c6fa9589,231.4,03-05-2025,13:37:15
+paid college fees,transportation,paid college fees,16ed81e9,118.53,15-04-2024,15:49:41
+medical prescription,transportation,medical prescription,a6767300,323.17,14-05-2024,01:05:42
+flight ticket,housing,flight ticket,328b970f,339.14,06-10-2025,03:56:32
+hospital bill,shopping,hospital bill,ada2ac66,85.86,28-07-2025,05:41:27
+lunch,transportation,lunch,0280a09d,362.69,12-10-2025,06:36:34
+hotel booking,health,hotel booking,74088948,171.5,07-02-2025,07:46:00
+bought groceries,fitness,bought groceries,1be60ea8,487.68,18-10-2025,22:42:18
+hotel booking,food,hotel booking,df877bd3,377.51,21-08-2025,11:47:25
+electricity bill,entertainment,electricity bill,7d6bccea,281.88,27-08-2025,19:51:45
+online shopping,entertainment,online shopping,a3d97019,351.35,10-12-2024,00:08:31
+donation,fitness,donation,7932073c,335.43,01-07-2024,07:42:42
+bus ticket,housing,bus ticket,3f85db0d,411.25,10-11-2025,07:55:34
+donation,transportation,donation,1a37c55a,32.04,28-12-2025,08:20:40
+lunch,utilities,lunch,2e351f27,12.93,12-05-2024,17:10:51
+gym membership,fitness,gym membership,507e253e,31.23,14-03-2024,02:26:43
+coffee,transportation,coffee,45e0f03d,97.84,05-04-2025,01:49:06
+bought groceries,fitness,bought groceries,f5ddafd9,283.58,05-08-2025,12:09:54
+online shopping,fitness,online shopping,035b01bf,388.89,10-08-2024,21:04:39
+paid college fees,shopping,paid college fees,8b120596,399.43,07-02-2025,04:43:48
+new phone,shopping,new phone,14741663,282.76,12-06-2025,17:39:32
+new phone,food,new phone,c837da19,65.04,30-12-2025,10:30:03
+gym membership,food,gym membership,b816187c,193.83,13-11-2024,18:48:53
+online shopping,utilities,online shopping,d44a4eba,6.52,12-09-2024,18:33:34
+online shopping,food,online shopping,dd09146b,142.06,25-02-2024,09:36:03
+coffee,entertainment,coffee,3722933e,493.02,04-12-2024,04:43:35
+new phone,health,new phone,b4cd7233,331.62,07-06-2024,09:56:37
+online shopping,groceries,online shopping,2344a52b,16.91,19-04-2025,12:35:05
+lunch,health,lunch,558652cf,407.36,19-02-2025,06:03:59
+hospital bill,transportation,hospital bill,c4093647,134.9,18-09-2024,00:38:05
+new phone,groceries,new phone,0b1f13dc,356.4,09-12-2024,22:12:07
+gas station,entertainment,gas station,8b7aa29c,103.59,26-02-2025,06:11:09
+electricity bill,entertainment,electricity bill,8e546364,412.69,06-07-2024,13:52:04
+gym membership,food,gym membership,faf95156,99.77,21-08-2024,10:35:38
+hospital bill,health,hospital bill,87c686e2,349.42,19-08-2025,10:26:55
+rent payment,health,rent payment,de8fbaef,225.03,24-11-2024,01:13:29
+dinner,shopping,dinner,8c499142,148.88,06-07-2025,15:05:38
+gas station,entertainment,gas station,2dc0be32,306.07,17-01-2025,01:51:09
+movie tickets,shopping,movie tickets,2fef34d2,486.2,15-11-2024,10:12:58
+medical prescription,fitness,medical prescription,f2d49be0,475.53,28-01-2025,06:52:59
+bus ticket,entertainment,bus ticket,7640604f,476.11,04-02-2024,12:03:32
+lunch,utilities,lunch,a60fd2e0,129.42,07-09-2024,17:57:19
+donation,transportation,donation,d2e2548c,349.68,20-06-2024,08:24:32
+rent payment,transportation,rent payment,2dba2c6a,173.9,04-11-2025,01:00:22
+online shopping,shopping,online shopping,0a434621,116.83,27-08-2024,08:21:08
+flight ticket,shopping,flight ticket,154ca53b,459.81,24-10-2024,22:02:57
+new phone,fitness,new phone,555a3bf1,442.82,17-04-2024,03:31:41
+coffee,health,coffee,f32386f8,114.08,02-09-2024,23:44:49
+paid college fees,shopping,paid college fees,87fd09c0,379.13,30-07-2025,07:34:57
+flight ticket,shopping,flight ticket,d26f09e7,380.79,05-05-2025,10:48:28
+new phone,housing,new phone,9ba84720,68.08,08-02-2024,16:01:00
+bus ticket,entertainment,bus ticket,c1a14ad1,85.9,05-04-2024,10:42:32
+new phone,food,new phone,c671884a,49.81,11-04-2025,04:23:06
+rent payment,health,rent payment,2fe4b443,258.54,15-04-2025,08:35:10
+dinner,transportation,dinner,c8a64bca,364.32,07-07-2024,15:30:29
+bus ticket,transportation,bus ticket,346ace41,456.59,22-01-2024,21:48:03
+gas station,health,gas station,46997533,419.13,19-10-2024,00:08:32
+paid college fees,food,paid college fees,e88fcdc4,169.92,19-06-2024,11:14:00
+new phone,entertainment,new phone,dcb922b8,410.52,15-08-2025,00:03:11
+hospital bill,housing,hospital bill,1cb36c93,92.85,10-10-2025,17:50:07
+online shopping,shopping,online shopping,fd539141,133.3,22-06-2025,19:09:30
+movie tickets,transportation,movie tickets,6b3f41e2,447.54,25-08-2025,09:48:43
+gas station,utilities,gas station,d1339ad8,438.52,07-08-2025,08:08:25
+coffee,transportation,coffee,9ced8ef0,147.41,23-05-2024,03:48:44
+bus ticket,housing,bus ticket,e40c1013,266.31,27-03-2025,05:07:00
+coffee,entertainment,coffee,5badc570,123.31,19-11-2025,03:03:18
+gym membership,health,gym membership,22ec8c88,379.21,26-01-2025,21:58:39
+bought groceries,groceries,bought groceries,8d4dec6c,426.52,21-10-2024,23:59:36
+bus ticket,health,bus ticket,b144ae15,198.11,19-08-2024,10:52:44
+rent payment,utilities,rent payment,267e1159,499.64,15-11-2025,17:59:58
+electricity bill,food,electricity bill,f1dbc19c,214.29,07-07-2025,10:41:47
+electricity bill,health,electricity bill,56ecd529,136.83,07-02-2025,09:15:21
+medical prescription,groceries,medical prescription,449611b3,367.2,23-04-2024,01:08:03
+dinner,health,dinner,731120fc,265.03,13-08-2025,01:10:12
+movie tickets,fitness,movie tickets,0e4d8dcc,479.46,27-11-2024,01:52:13
+bought groceries,groceries,bought groceries,45c9c264,318.82,23-07-2025,08:50:39
+medical prescription,fitness,medical prescription,914e3776,30.45,13-06-2024,16:47:36
+paid college fees,fitness,paid college fees,3b2384e8,367.72,25-12-2025,13:07:22
+rent payment,utilities,rent payment,e2e1fe29,60.06,09-05-2025,09:22:21
+dinner,entertainment,dinner,c7ce24d2,272.53,15-02-2024,10:13:53
+bus ticket,entertainment,bus ticket,438a287c,140.34,08-11-2025,23:50:36
+movie tickets,utilities,movie tickets,8b2b5d15,114.25,23-11-2024,03:23:34
+medical prescription,food,medical prescription,6a7d1970,47.98,23-04-2024,00:54:41
+hospital bill,shopping,hospital bill,da553b10,391.76,24-06-2025,14:05:24
+movie tickets,entertainment,movie tickets,35e15e73,18.05,21-03-2025,01:27:53
+donation,entertainment,donation,d4467580,319.12,20-07-2024,12:45:36
+hospital bill,housing,hospital bill,68628ce1,121.57,29-08-2025,16:07:33
+flight ticket,shopping,flight ticket,ad4c458e,24.83,06-12-2024,06:49:15
+new phone,utilities,new phone,c72460dd,458.6,04-07-2024,23:39:56
+online shopping,shopping,online shopping,115999dd,414.56,26-07-2025,10:37:00
+electricity bill,housing,electricity bill,55fe4e80,481.82,18-05-2024,03:41:15
+gym membership,groceries,gym membership,e12f6a80,423.26,24-04-2025,01:58:34
+hotel booking,fitness,hotel booking,fed7749a,388.55,03-04-2024,23:26:42
+lunch,groceries,lunch,62eda7f9,53.4,26-08-2024,08:34:54
+coffee,utilities,coffee,358e3da0,355.76,11-09-2025,09:48:43
+bought groceries,shopping,bought groceries,846c4714,448.27,15-09-2024,13:26:11
+donation,housing,donation,6f86259c,154.94,15-05-2025,21:18:00
+bus ticket,utilities,bus ticket,5c9c71af,74.66,08-09-2024,07:30:10
+paid college fees,shopping,paid college fees,8e2e3f34,205.7,14-09-2025,16:06:46
+paid college fees,food,paid college fees,70cf9d09,433.56,06-05-2024,04:25:41
+flight ticket,entertainment,flight ticket,d76aff0b,288.52,14-12-2024,01:06:15
+paid college fees,health,paid college fees,26b635cd,289.59,04-01-2025,01:47:50
+lunch,entertainment,lunch,1a568ce1,95.88,03-07-2025,21:08:13
+bought groceries,transportation,bought groceries,8a087f55,231.56,13-06-2024,15:23:42
+flight ticket,utilities,flight ticket,bf33fe93,322.68,07-10-2024,12:47:20
+rent payment,shopping,rent payment,9d098512,495.19,29-01-2024,10:55:35
+luxury car purchase,fraudulent,luxury car purchase,a0a7b49d,13546,10-05-2025,03:10:50
+suspicious wire transfer,fraudulent,wire transfer,af4091c9,34186,11-11-2024,05:55:16
+large bitcoin purchase,fraudulent,bitcoin purchase,7add67f6,37680,04-03-2024,06:31:07
+unknown overseas transaction,fraudulent,overseas transaction,1bdc1766,17867,06-06-2024,19:48:14
+bulk jewelry purchase,fraudulent,jewelry purchase,fbf0d481,26814,23-01-2024,03:04:29

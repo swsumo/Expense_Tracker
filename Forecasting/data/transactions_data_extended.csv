@@ -1,0 +1,692 @@
+description,category,clean_description,transaction_id,amount,date,time,day_of_week,month,year
+banana,food,banana,3caab516,310.65,2024-07-25 00:00:00,03:05:42,Thursday,July,2024
+biscuit,food,biscuit,38fcdf0d,245.63,2025-09-26 00:00:00,08:06:28,Friday,September,2025
+books,education,books,a3cbd43f,149.09,2024-06-17 00:00:00,19:13:38,Monday,June,2024
+bread,food,bread,65be8e26,334.13,2024-01-23 00:00:00,19:39:05,Tuesday,January,2024
+breakfast,food,breakfast,38db7f84,369.34,2025-10-13 00:00:00,10:27:08,Monday,October,2025
+brownie,food,brownie,63e33c6f,394.37,2024-09-16 00:00:00,04:30:25,Monday,September,2024
+brunch,food,brunch,61467eec,130.12,2025-12-12 00:00:00,12:40:49,Friday,December,2025
+bun,food,bun,79c1c19e,431.13,2025-04-12 00:00:00,06:17:56,Saturday,April,2025
+car payment,transportation,car payment,876134d9,301.21,2024-06-08 00:00:00,19:26:37,Saturday,June,2024
+car wash,transportation,car wash,b71d965e,179.66,2025-11-14 00:00:00,16:25:54,Friday,November,2025
+chocolate,food,chocolate,1db7cead,462.66,2025-06-22 00:00:00,10:28:16,Sunday,June,2025
+clothes,shopping,clothes,05dbd289,166.01,2024-08-26 00:00:00,19:16:21,Monday,August,2024
+coconut water,food,coconut water,c73d80ed,301.76,2024-05-31 00:00:00,01:02:32,Friday,May,2024
+coffee,food,coffee,c0ada263,342.29,2025-05-24 00:00:00,12:51:48,Saturday,May,2025
+concerts,entertainment,concerts,c498693e,465.56,2025-04-15 00:00:00,14:03:44,Tuesday,April,2025
+corn,food,corn,e6239d1d,153.73,2024-07-07 00:00:00,21:59:57,Sunday,July,2024
+dinner,food,dinner,819d9003,341.41,2024-09-15 00:00:00,06:46:32,Sunday,September,2024
+doctor,health,doctor,1c144350,44.83,2025-03-26 00:00:00,15:09:53,Wednesday,March,2025
+drinks,food,drinks,5959cf9c,425.15,2025-09-18 00:00:00,05:51:11,Thursday,September,2025
+eggs,food,eggs,5f56d12c,16.51,2024-12-25 00:00:00,07:46:08,Wednesday,December,2024
+electricity bill,utilities,electricity bill,86a9af0b,394.01,2025-05-29 00:00:00,03:05:21,Thursday,May,2025
+eye glasses,health,eye glasses,3f5e29c0,69.84,2024-07-12 00:00:00,17:00:51,Friday,July,2024
+fruit,food,fruit,cba9c805,57.63,2024-05-19 00:00:00,23:03:59,Sunday,May,2024
+gas station,transportation,gas station,66473c98,471.24,2024-04-06 00:00:00,11:05:33,Saturday,April,2024
+gasoline,fuel,gasoline,cbf2a115,269.05,2024-05-30 00:00:00,18:29:48,Thursday,May,2024
+grocery Shopping,groceries,grocery shopping,1ed83aae,122.25,2025-04-15 00:00:00,07:08:18,Tuesday,April,2025
+gym,fitness,gym,71a44cc7,75.32,2025-01-09 00:00:00,11:44:37,Thursday,January,2025
+haircut,personal care,haircut,268c114e,439.01,2025-11-20 00:00:00,02:38:01,Thursday,November,2025
+hospital,health,hospital,565a7cb0,210.85,2024-12-14 00:00:00,16:14:46,Saturday,December,2024
+ice cream,food,ice cream,45b8437c,499.92,2025-07-19 00:00:00,11:40:46,Saturday,July,2025
+internet bill,utilities,internet bill,d7ba7d2d,120.96,2025-12-02 00:00:00,09:37:51,Tuesday,December,2025
+lunch,food,lunch,e5643878,92.93,2024-07-31 00:00:00,15:26:51,Wednesday,July,2024
+mcdonald's,food,mcdonald,026bffd8,378.99,2024-02-23 00:00:00,02:39:07,Friday,February,2024
+medical,health,medical,bd46d089,230.68,2025-06-21 00:00:00,13:38:14,Saturday,June,2025
+milk,food,milk,41ebed1a,230.85,2025-02-06 00:00:00,18:36:14,Thursday,February,2025
+momos,food,momos,5138e83c,278.64,2024-04-11 00:00:00,00:22:41,Thursday,April,2024
+mortage,housing,mortage,0d6ab141,307.86,2024-02-06 00:00:00,19:18:49,Tuesday,February,2024
+movie tickets,entertainment,movie tickets,e70c20f3,341.37,2024-03-14 00:00:00,18:45:37,Thursday,March,2024
+parking,transportation,parking,ed7faca6,54.44,2025-03-15 00:00:00,19:57:46,Saturday,March,2025
+pedicure,personal care,pedicure,17b2325d,378.31,2025-08-31 00:00:00,07:24:45,Sunday,August,2025
+pepsi,food,pepsi,8b48a151,153.93,2024-06-25 00:00:00,13:05:28,Tuesday,June,2024
+phone bill,utilities,phone bill,e68e0a6c,8.14,2025-08-29 00:00:00,17:26:45,Friday,August,2025
+pizza,food,pizza,e8e9c5c3,490.07,2024-08-08 00:00:00,06:59:59,Thursday,August,2024
+public transportation,transportation,public transportation,2b651cc5,216.5,2024-11-13 00:00:00,07:08:34,Wednesday,November,2024
+ramen with gobi,food,ramen gobi,ac9dab04,313.26,2025-05-31 00:00:00,04:44:28,Saturday,May,2025
+restaurant bill,dining,restaurant bill,1d676497,266.26,2024-09-14 00:00:00,16:43:26,Saturday,September,2024
+snack,food,snack,99ac5e26,109.01,2024-01-30 00:00:00,18:58:09,Tuesday,January,2024
+subway fare,transportation,subway fare,8c96ef7a,373.67,2025-09-21 00:00:00,03:24:15,Sunday,September,2025
+tea lights,food,tea lights,27730887,437.9,2024-06-12 00:00:00,04:03:24,Wednesday,June,2024
+tolls,transportation,tolls,63e368d3,406.93,2024-01-02 00:00:00,17:08:58,Tuesday,January,2024
+travel,transportation,travel,c8cdd414,216.36,2024-08-18 00:00:00,20:22:07,Sunday,August,2024
+uber,transportation,uber,2344469d,268.97,2024-06-23 00:00:00,10:43:29,Sunday,June,2024
+vacations,travel,vacations,a28fbbf0,5.66,2024-02-04 00:00:00,16:00:28,Sunday,February,2024
+vegetables,food,vegetables,19991676,461.72,2024-01-17 00:00:00,17:03:56,Wednesday,January,2024
+water,food,water,b759dae5,411.72,2025-06-19 00:00:00,09:02:27,Thursday,June,2025
+meal,food,meal,af5215e6,385.97,2024-06-14 00:00:00,21:27:56,Friday,June,2024
+zomato,food,zomato,0f7ec07f,467.9,2024-10-29 00:00:00,10:16:34,Tuesday,October,2024
+metro,transportation,metro,65c4d374,135.01,2024-11-14 00:00:00,23:27:15,Thursday,November,2024
+auto,transportation,auto,5afd28bf,358.91,2025-07-10 00:00:00,14:30:45,Thursday,July,2025
+bus ticket,transportation,bus ticket,854572fc,395.66,2024-12-06 00:00:00,01:01:15,Friday,December,2024
+cab,transportation,cab,9ef4ff86,467.04,2024-04-13 00:00:00,13:20:57,Saturday,April,2024
+taxi,transportation,taxi,9909650f,463.24,2024-03-17 00:00:00,13:26:02,Sunday,March,2024
+hoodie,shopping,hoodie,ff3f6ad0,415.85,2024-04-03 00:00:00,00:36:23,Wednesday,April,2024
+cap,shopping,cap,34267320,109.1,2025-12-11 00:00:00,15:44:47,Thursday,December,2025
+earphone,shopping,earphone,f341e522,211.98,2024-12-13 00:00:00,04:20:00,Friday,December,2024
+belt,shopping,belt,fe013b0b,432.23,2025-05-15 00:00:00,18:49:50,Thursday,May,2025
+mask,health,mask,04a24879,359.85,2025-09-21 00:00:00,17:19:56,Sunday,September,2025
+shoes,shopping,shoes,0f1e6953,77.41,2025-09-19 00:00:00,14:01:31,Friday,September,2025
+mirror,shopping,mirror,59eceade,284.64,2024-02-08 00:00:00,15:38:41,Thursday,February,2024
+bus ticket,transportation,bus ticket,d8efa0be,19.52,2025-02-27 00:00:00,22:44:08,Thursday,February,2025
+medical expenses,health,medical expenses,2f663bd5,494.28,2024-02-05 00:00:00,15:24:52,Monday,February,2024
+car payment,transportation,car payment,3c15fcaa,47.17,2024-11-06 00:00:00,01:49:55,Wednesday,November,2024
+internet,utilities,internet,4110a12a,63.28,2024-10-14 00:00:00,14:48:41,Monday,October,2024
+phone,utilities,phone,422f14d8,189.36,2024-04-11 00:00:00,05:08:20,Thursday,April,2024
+health insurance,health,health insurance,e570368f,335.34,2025-12-13 00:00:00,19:49:08,Saturday,December,2025
+clothing,shopping,clothing,2245f0f6,498.97,2025-04-26 00:00:00,12:32:00,Saturday,April,2025
+prescriptions,health,prescriptions,a8767f0e,16.16,2024-12-20 00:00:00,23:58:44,Friday,December,2024
+netflix,entertainment,netflix,91dfffe0,32.22,2025-09-21 00:00:00,06:19:47,Sunday,September,2025
+amazon prime,entertainment,amazon prime,4976d222,25.2,2024-05-02 00:00:00,12:53:34,Thursday,May,2024
+sporting events,entertainment,sporting events,aa001f9a,11.28,2024-07-09 00:00:00,03:55:11,Tuesday,July,2024
+yoga classes,fitness,yoga classes,a779da52,138.47,2024-01-06 00:00:00,10:18:33,Saturday,January,2024
+subscriptions,entertainment,subscriptions,360b0378,247.59,2024-12-29 00:00:00,12:53:32,Sunday,December,2024
+flights,transportation,flights,bc8f1b32,306.0,2025-05-28 00:00:00,17:21:21,Wednesday,May,2025
+gifts,gifts,gifts,18c6d6e1,425.65,2025-08-09 00:00:00,19:01:22,Saturday,August,2025
+donations,donations,donations,200b687d,284.13,2024-01-31 00:00:00,02:09:27,Wednesday,January,2024
+home repair,housing,home repair,dc7e3f31,77.37,2024-10-29 00:00:00,17:32:13,Tuesday,October,2024
+pet expenses,other,pet expenses,4e9b1628,118.02,2025-02-08 00:00:00,20:38:05,Saturday,February,2025
+medicine,health,medicine,99f8f23b,267.29,2025-06-25 00:00:00,06:26:21,Wednesday,June,2025
+fill petrol,fuel,fill petrol,10229dc2,360.99,2025-10-16 00:00:00,00:31:46,Thursday,October,2025
+paid school fees,education,paid school fees,3b50cb5b,276.28,2025-01-31 00:00:00,05:25:15,Friday,January,2025
+college fees payment,education,college fees payment,26d96a61,445.68,2024-11-04 00:00:00,10:07:55,Monday,November,2024
+amazon prime,entertainment,amazon prime,47aedb56,281.44,2024-08-14 00:00:00,15:37:15,Wednesday,August,2024
+college fees payment,education,college fees payment,824bb5b1,14.41,2025-06-05 00:00:00,01:52:07,Thursday,June,2025
+bus ticket,transportation,bus ticket,9864e62b,281.4,2024-10-03 00:00:00,08:49:55,Thursday,October,2024
+yoga classes,fitness,yoga classes,01ae246f,409.86,2024-05-28 00:00:00,12:12:27,Tuesday,May,2024
+yoga classes,fitness,yoga classes,e2134209,242.29,2025-05-19 00:00:00,10:03:48,Monday,May,2025
+gas station,transportation,gas station,ef87e3f8,310.41,2024-05-17 00:00:00,07:39:38,Friday,May,2024
+gifts,other,gifts,d8222bd9,280.96,2025-07-20 00:00:00,06:59:19,Sunday,July,2025
+showergel,grooming,showergel,d83f3d22,188.18,2024-02-06 00:00:00,07:12:58,Tuesday,February,2024
+keratin treatment,grooming,keratin treatment,6fb8ea7c,65.07,2025-09-07 00:00:00,07:34:18,Sunday,September,2025
+hospital,health,hospital,5bf9d629,9.86,2024-04-04 00:00:00,03:36:54,Thursday,April,2024
+flights,travel,flights,1be67a2c,101.28,2025-05-19 00:00:00,09:05:33,Monday,May,2025
+cap,shopping,cap,31416ebd,185.93,2025-04-05 00:00:00,11:51:27,Saturday,April,2025
+internet bill,utilities,internet bill,7d08e3b1,78.24,2024-04-14 00:00:00,20:36:53,Sunday,April,2024
+movie tickets,entertainment,movie tickets,b6efd236,44.64,2024-11-04 00:00:00,17:19:43,Monday,November,2024
+recharge mobile,utilities,recharge mobile,780b922a,411.74,2024-01-24 00:00:00,04:07:44,Wednesday,January,2024
+recharge mobile,utilities,recharge mobile,f9dae795,396.95,2024-03-27 00:00:00,12:13:05,Wednesday,March,2024
+biscuit,food,biscuit,b3360ca9,335.76,2024-05-23 00:00:00,23:10:03,Thursday,May,2024
+gym,fitness,gym,dead0895,251.34,2025-08-07 00:00:00,12:27:44,Thursday,August,2025
+mortage,housing,mortage,00c4bdd5,442.36,2025-10-28 00:00:00,19:38:56,Tuesday,October,2025
+mirror,shopping,mirror,e511f459,89.46,2025-09-15 00:00:00,09:57:50,Monday,September,2025
+rent,housing,rent,b5219efa,314.58,2024-10-01 00:00:00,13:16:38,Tuesday,October,2024
+vacations,travel,vacations,11232300,118.65,2024-06-20 00:00:00,12:26:36,Thursday,June,2024
+concerts,entertainment,concerts,e761d00d,401.1,2024-09-19 00:00:00,22:33:34,Thursday,September,2024
+gas station,transportation,gas station,9c1d2889,419.81,2024-09-18 00:00:00,16:43:08,Wednesday,September,2024
+flights,travel,flights,e7648c6d,493.14,2024-10-10 00:00:00,15:36:08,Thursday,October,2024
+electricity bill,utilities,electricity bill,23f7e5c7,427.74,2025-09-11 00:00:00,11:05:47,Thursday,September,2025
+netflix,entertainment,netflix,c0d70406,359.06,2024-05-14 00:00:00,21:11:13,Tuesday,May,2024
+gifts,other,gifts,6c3d4622,273.13,2024-06-15 00:00:00,11:42:01,Saturday,June,2024
+gym,fitness,gym,7f6d4dd2,238.1,2024-02-12 00:00:00,04:41:09,Monday,February,2024
+hoodie,shopping,hoodie,6069f299,18.41,2024-07-23 00:00:00,14:56:05,Tuesday,July,2024
+home repair,housing,home repair,72e368b2,57.07,2024-06-13 00:00:00,21:19:58,Thursday,June,2024
+doctor,health,doctor,29d347f5,130.65,2024-06-28 00:00:00,05:30:58,Friday,June,2024
+concerts,entertainment,concerts,e06a2606,249.35,2025-10-27 00:00:00,04:44:28,Monday,October,2025
+coffee,food,coffee,08d4b470,355.34,2024-01-31 00:00:00,00:41:31,Wednesday,January,2024
+paid gym membership fee,fitness,paid gym membership fee,ebfccf0a,385.23,2024-02-16 00:00:00,07:53:51,Friday,February,2024
+showergel,grooming,showergel,e538b608,220.48,2025-12-01 00:00:00,18:50:09,Monday,December,2025
+college fees payment,education,college fees payment,cc3c2148,163.6,2025-08-01 00:00:00,19:02:25,Friday,August,2025
+spotify,entertainment,spotify,fd4e4a69,276.28,2025-03-18 00:00:00,09:09:25,Tuesday,March,2025
+gifts,other,gifts,ee3786bc,426.37,2024-03-08 00:00:00,12:49:20,Friday,March,2024
+donations,other,donations,9ec343a2,137.52,2024-03-08 00:00:00,07:07:42,Friday,March,2024
+recharge mobile,utilities,recharge mobile,31dd74f5,440.58,2024-10-03 00:00:00,12:43:23,Thursday,October,2024
+internet bill,utilities,internet bill,8204c7be,83.17,2024-05-12 00:00:00,11:49:58,Sunday,May,2024
+pizza,food,pizza,edb3a8b6,163.44,2025-11-16 00:00:00,16:50:53,Sunday,November,2025
+gifts,other,gifts,ca9a6742,130.39,2024-11-12 00:00:00,16:05:45,Tuesday,November,2024
+spotify,entertainment,spotify,ee486bd6,105.4,2024-09-23 00:00:00,22:16:02,Monday,September,2024
+recharge mobile,utilities,recharge mobile,3c34564c,103.32,2025-08-26 00:00:00,20:38:08,Tuesday,August,2025
+internet bill,utilities,internet bill,ff8f495b,424.17,2024-04-27 00:00:00,14:54:59,Saturday,April,2024
+college fees payment,education,college fees payment,41fbd2c2,107.79,2024-11-07 00:00:00,06:40:02,Thursday,November,2024
+recharge mobile,utilities,recharge mobile,64745a4b,337.19,2024-08-18 00:00:00,23:04:15,Sunday,August,2024
+milk,food,milk,918c937c,343.23,2024-09-05 00:00:00,00:07:33,Thursday,September,2024
+books,education,books,84f51692,118.49,2025-09-27 00:00:00,21:47:22,Saturday,September,2025
+home repair,housing,home repair,dbc2837d,473.34,2025-06-18 00:00:00,23:27:20,Wednesday,June,2025
+doctor,health,doctor,b60af7fc,235.08,2024-03-13 00:00:00,03:06:43,Wednesday,March,2024
+manicure,grooming,manicure,7c3c83b2,208.17,2024-01-24 00:00:00,05:39:25,Wednesday,January,2024
+books,education,books,902fc92c,441.17,2025-11-13 00:00:00,00:10:41,Thursday,November,2025
+concerts,entertainment,concerts,0481e76f,306.93,2024-02-22 00:00:00,17:29:34,Thursday,February,2024
+hoodie,shopping,hoodie,809f2e1e,458.76,2024-11-15 00:00:00,14:20:43,Friday,November,2024
+gym,fitness,gym,5176145e,307.03,2025-03-13 00:00:00,03:34:55,Thursday,March,2025
+subway fare,transportation,subway fare,cc9c2c48,288.0,2025-08-30 00:00:00,15:39:15,Saturday,August,2025
+vacations,travel,vacations,a2b184e6,83.04,2025-07-05 00:00:00,21:48:28,Saturday,July,2025
+rent,housing,rent,8a8ba9a7,408.6,2025-05-04 00:00:00,05:09:28,Sunday,May,2025
+pet expenses,other,pet expenses,e4a00403,375.31,2024-04-04 00:00:00,05:18:04,Thursday,April,2024
+car payment,transportation,car payment,98292669,254.11,2025-09-28 00:00:00,00:20:36,Sunday,September,2025
+paid school fees,education,paid school fees,088166b1,208.69,2025-01-29 00:00:00,01:30:24,Wednesday,January,2025
+concerts,entertainment,concerts,70131f56,6.4,2024-04-22 00:00:00,06:55:12,Monday,April,2024
+spotify,entertainment,spotify,bdc5fdeb,98.52,2024-01-15 00:00:00,16:22:15,Monday,January,2024
+bus ticket,transportation,bus ticket,247c967b,61.13,2025-12-10 00:00:00,00:15:57,Wednesday,December,2025
+recharge mobile,utilities,recharge mobile,4a439591,485.19,2025-05-04 00:00:00,22:34:42,Sunday,May,2025
+college fees payment,education,college fees payment,a35587fb,380.19,2025-05-19 00:00:00,22:36:55,Monday,May,2025
+showergel,grooming,showergel,613bd6e9,496.72,2025-12-05 00:00:00,21:23:23,Friday,December,2025
+paid school fees,education,paid school fees,528314fd,426.01,2024-11-19 00:00:00,20:15:19,Tuesday,November,2024
+vacations,travel,vacations,b7935f61,371.36,2025-04-06 00:00:00,07:34:25,Sunday,April,2025
+clothes,shopping,clothes,b3379aeb,384.07,2025-12-06 00:00:00,05:33:37,Saturday,December,2025
+hospital,health,hospital,1df65fdc,73.88,2024-01-31 00:00:00,06:06:36,Wednesday,January,2024
+recharge mobile,utilities,recharge mobile,d3a9d29b,407.46,2024-03-29 00:00:00,16:19:37,Friday,March,2024
+paid gym membership fee,fitness,paid gym membership fee,85156d95,400.6,2025-08-28 00:00:00,08:42:19,Thursday,August,2025
+pedicure,grooming,pedicure,074e1699,51.67,2024-11-13 00:00:00,22:55:59,Wednesday,November,2024
+electricity bill,utilities,electricity bill,1a6edef2,169.67,2025-08-31 00:00:00,12:55:03,Sunday,August,2025
+home repair,housing,home repair,0231df77,317.4,2025-07-19 00:00:00,12:40:24,Saturday,July,2025
+dentist,health,dentist,927fc5fb,485.83,2025-01-30 00:00:00,14:36:59,Thursday,January,2025
+purchase notebook,education,purchase notebook,535ea04c,406.32,2025-09-05 00:00:00,06:53:47,Friday,September,2025
+netflix,entertainment,netflix,b99cc1ed,287.39,2024-01-06 00:00:00,06:21:12,Saturday,January,2024
+pizza,food,pizza,c6db5089,247.19,2025-09-03 00:00:00,00:12:44,Wednesday,September,2025
+showergel,grooming,showergel,66472ad4,143.28,2024-02-22 00:00:00,09:30:54,Thursday,February,2024
+phone bill,utilities,phone bill,2dc04c62,343.02,2025-08-17 00:00:00,03:43:32,Sunday,August,2025
+books,education,books,ecc44d86,386.2,2025-12-26 00:00:00,23:05:47,Friday,December,2025
+home repair,housing,home repair,59d14532,378.91,2025-01-24 00:00:00,08:18:38,Friday,January,2025
+subway fare,transportation,subway fare,dca3f071,25.75,2025-01-11 00:00:00,15:31:37,Saturday,January,2025
+flights,travel,flights,f9c45589,232.39,2024-10-04 00:00:00,02:50:18,Friday,October,2024
+public transportation,transportation,public transportation,7775a667,8.18,2024-03-08 00:00:00,11:39:19,Friday,March,2024
+haircut,grooming,haircut,d0fabe24,416.09,2025-06-14 00:00:00,17:52:28,Saturday,June,2025
+public transportation,transportation,public transportation,63c1f575,98.99,2024-11-17 00:00:00,02:12:58,Sunday,November,2024
+vacations,travel,vacations,f88d3ac0,96.76,2024-08-19 00:00:00,00:13:42,Monday,August,2024
+water,food,water,7b2080f9,433.78,2024-01-13 00:00:00,06:06:22,Saturday,January,2024
+yoga classes,fitness,yoga classes,17a0050a,428.35,2025-07-23 00:00:00,01:03:18,Wednesday,July,2025
+medicine,health,medicine,6fe50285,15.27,2024-04-10 00:00:00,18:01:56,Wednesday,April,2024
+manicure,grooming,manicure,734de820,145.01,2024-06-15 00:00:00,00:17:11,Saturday,June,2024
+vacations,travel,vacations,9d6ff6fc,229.29,2024-02-14 00:00:00,09:32:15,Wednesday,February,2024
+internet bill,utilities,internet bill,f3ce9576,261.44,2024-01-28 00:00:00,01:00:39,Sunday,January,2024
+gym,fitness,gym,b31fff18,334.14,2025-03-17 00:00:00,15:26:09,Monday,March,2025
+medical prescription,groceries,medical prescription,6cae4b19,344.88,2025-03-22 00:00:00,13:21:00,Saturday,March,2025
+electricity bill,health,electricity bill,22e5c775,488.91,2024-11-03 00:00:00,12:12:26,Sunday,November,2024
+new phone,housing,new phone,76fa904d,471.35,2025-02-06 00:00:00,17:02:50,Thursday,February,2025
+coffee,housing,coffee,836bed94,158.54,2024-08-08 00:00:00,07:50:24,Thursday,August,2024
+medical prescription,housing,medical prescription,8b83d8f2,368.46,2024-10-09 00:00:00,21:03:31,Wednesday,October,2024
+gas station,transportation,gas station,e9610890,269.59,2025-12-24 00:00:00,13:24:45,Wednesday,December,2025
+donation,fitness,donation,72c3ebe8,402.91,2024-06-18 00:00:00,01:08:30,Tuesday,June,2024
+electricity bill,health,electricity bill,b50a5efc,325.89,2024-12-04 00:00:00,17:22:31,Wednesday,December,2024
+hotel booking,entertainment,hotel booking,bd415e25,95.44,2024-02-14 00:00:00,19:07:32,Wednesday,February,2024
+medical prescription,entertainment,medical prescription,8331d28c,17.78,2025-07-14 00:00:00,08:34:27,Monday,July,2025
+medical prescription,fitness,medical prescription,db944b11,321.83,2024-11-09 00:00:00,08:58:00,Saturday,November,2024
+dinner,food,dinner,8e32add2,334.55,2024-08-25 00:00:00,19:07:13,Sunday,August,2024
+hotel booking,groceries,hotel booking,5d8c12ad,209.06,2024-11-19 00:00:00,01:55:02,Tuesday,November,2024
+bought groceries,health,bought groceries,f15b79e1,209.65,2024-08-29 00:00:00,14:27:00,Thursday,August,2024
+donation,shopping,donation,d4efcfc2,46.85,2025-10-13 00:00:00,04:37:41,Monday,October,2025
+gym membership,fitness,gym membership,4c0f673b,58.83,2025-04-30 00:00:00,13:47:32,Wednesday,April,2025
+flight ticket,groceries,flight ticket,2141fa31,320.92,2024-10-03 00:00:00,21:30:45,Thursday,October,2024
+lunch,shopping,lunch,a6cf265d,115.66,2025-09-11 00:00:00,21:44:47,Thursday,September,2025
+online shopping,utilities,online shopping,713b1356,357.11,2024-11-19 00:00:00,05:27:02,Tuesday,November,2024
+new phone,groceries,new phone,195a3910,320.69,2024-10-04 00:00:00,18:36:17,Friday,October,2024
+bought groceries,utilities,bought groceries,0f2436be,344.29,2025-05-16 00:00:00,23:03:27,Friday,May,2025
+bought groceries,groceries,bought groceries,1add83da,300.59,2025-07-02 00:00:00,20:01:19,Wednesday,July,2025
+donation,food,donation,2fc6cf15,199.32,2024-07-08 00:00:00,08:29:51,Monday,July,2024
+electricity bill,fitness,electricity bill,c577ee00,314.77,2024-08-13 00:00:00,01:56:04,Tuesday,August,2024
+new phone,health,new phone,0953e09f,471.74,2025-01-27 00:00:00,19:54:34,Monday,January,2025
+gas station,shopping,gas station,e6891dac,128.13,2025-12-22 00:00:00,07:13:10,Monday,December,2025
+coffee,utilities,coffee,50d0cfbd,257.34,2025-07-09 00:00:00,16:54:00,Wednesday,July,2025
+hospital bill,transportation,hospital bill,2a4a1f26,200.25,2024-12-10 00:00:00,13:15:06,Tuesday,December,2024
+rent payment,utilities,rent payment,60347f52,186.0,2024-08-06 00:00:00,15:25:41,Tuesday,August,2024
+hospital bill,fitness,hospital bill,69eddf62,419.07,2025-04-20 00:00:00,21:10:34,Sunday,April,2025
+electricity bill,transportation,electricity bill,ea8ea80c,171.26,2025-03-09 00:00:00,19:39:41,Sunday,March,2025
+bought groceries,food,bought groceries,dd198e51,69.75,2024-09-22 00:00:00,18:58:40,Sunday,September,2024
+gym membership,housing,gym membership,19674348,248.9,2024-01-01 00:00:00,08:14:08,Monday,January,2024
+paid college fees,transportation,paid college fees,6fd375e2,40.48,2024-04-22 00:00:00,02:11:34,Monday,April,2024
+new phone,utilities,new phone,0f36c7e2,36.36,2024-11-24 00:00:00,17:57:41,Sunday,November,2024
+flight ticket,health,flight ticket,88283f56,469.63,2025-11-30 00:00:00,16:16:32,Sunday,November,2025
+gym membership,utilities,gym membership,2357948e,442.19,2025-12-18 00:00:00,21:21:50,Thursday,December,2025
+bought groceries,fitness,bought groceries,76502689,94.66,2024-09-04 00:00:00,16:44:53,Wednesday,September,2024
+coffee,transportation,coffee,9412e23e,279.17,2025-07-29 00:00:00,02:37:33,Tuesday,July,2025
+bus ticket,health,bus ticket,8ede6aef,27.23,2024-08-23 00:00:00,07:13:59,Friday,August,2024
+lunch,utilities,lunch,103a3935,181.81,2025-02-04 00:00:00,07:54:44,Tuesday,February,2025
+flight ticket,entertainment,flight ticket,9f94b08a,249.53,2025-02-09 00:00:00,11:42:33,Sunday,February,2025
+rent payment,housing,rent payment,8551bd44,160.31,2024-09-09 00:00:00,13:47:16,Monday,September,2024
+electricity bill,groceries,electricity bill,b97f03a9,350.29,2024-01-29 00:00:00,09:40:50,Monday,January,2024
+online shopping,shopping,online shopping,02f81c75,241.96,2025-06-10 00:00:00,06:55:18,Tuesday,June,2025
+flight ticket,utilities,flight ticket,885e9f60,401.0,2025-10-31 00:00:00,19:49:52,Friday,October,2025
+bought groceries,shopping,bought groceries,5bbc3ec7,27.63,2024-10-31 00:00:00,05:46:43,Thursday,October,2024
+bought groceries,fitness,bought groceries,4e779256,38.16,2024-02-14 00:00:00,13:11:43,Wednesday,February,2024
+bus ticket,transportation,bus ticket,9dc1750c,234.19,2024-12-16 00:00:00,16:44:21,Monday,December,2024
+bought groceries,food,bought groceries,9d294653,238.19,2024-12-25 00:00:00,08:28:08,Wednesday,December,2024
+movie tickets,utilities,movie tickets,fd726fed,290.14,2024-11-12 00:00:00,04:50:29,Tuesday,November,2024
+electricity bill,food,electricity bill,1d70291c,451.43,2025-12-29 00:00:00,22:35:37,Monday,December,2025
+lunch,housing,lunch,311cc386,33.12,2024-02-12 00:00:00,04:33:44,Monday,February,2024
+medical prescription,food,medical prescription,161ea2c9,315.18,2025-03-20 00:00:00,21:17:53,Thursday,March,2025
+donation,housing,donation,87c2ac5e,65.74,2025-01-22 00:00:00,19:59:16,Wednesday,January,2025
+lunch,shopping,lunch,074f40a7,229.14,2024-09-09 00:00:00,05:14:40,Monday,September,2024
+rent payment,transportation,rent payment,3908ace8,68.91,2025-09-15 00:00:00,00:54:47,Monday,September,2025
+coffee,transportation,coffee,e3ffacda,47.08,2024-02-13 00:00:00,21:55:23,Tuesday,February,2024
+bus ticket,fitness,bus ticket,13d485d4,20.38,2025-07-21 00:00:00,00:24:59,Monday,July,2025
+hospital bill,entertainment,hospital bill,3cee0780,489.52,2025-10-16 00:00:00,07:09:08,Thursday,October,2025
+online shopping,food,online shopping,48476659,68.83,2024-04-19 00:00:00,11:14:35,Friday,April,2024
+medical prescription,fitness,medical prescription,54b31133,253.94,2025-05-02 00:00:00,07:33:22,Friday,May,2025
+movie tickets,shopping,movie tickets,b9b5baa3,14.35,2024-06-13 00:00:00,06:05:36,Thursday,June,2024
+rent payment,utilities,rent payment,6ce0faeb,231.38,2025-02-12 00:00:00,03:09:53,Wednesday,February,2025
+rent payment,transportation,rent payment,c24f85ca,71.65,2024-01-18 00:00:00,19:53:32,Thursday,January,2024
+rent payment,entertainment,rent payment,dbfdb75e,243.68,2024-04-15 00:00:00,21:25:36,Monday,April,2024
+lunch,transportation,lunch,df9297c2,86.15,2025-03-06 00:00:00,17:22:05,Thursday,March,2025
+new phone,fitness,new phone,e3fc41ba,69.17,2025-03-25 00:00:00,00:55:50,Tuesday,March,2025
+rent payment,entertainment,rent payment,c2f06389,344.78,2025-09-25 00:00:00,03:50:19,Thursday,September,2025
+gym membership,transportation,gym membership,094ab4de,355.43,2025-06-24 00:00:00,03:13:35,Tuesday,June,2025
+gym membership,fitness,gym membership,1a019862,174.73,2025-06-25 00:00:00,20:10:13,Wednesday,June,2025
+dinner,housing,dinner,deb5d883,301.32,2024-09-14 00:00:00,01:27:13,Saturday,September,2024
+hospital bill,health,hospital bill,7326c9f2,474.45,2025-09-29 00:00:00,12:14:46,Monday,September,2025
+gas station,housing,gas station,b5a3d332,156.58,2024-12-24 00:00:00,00:02:16,Tuesday,December,2024
+dinner,shopping,dinner,ce6fd7e2,472.12,2024-07-20 00:00:00,05:58:31,Saturday,July,2024
+coffee,health,coffee,02ccc947,388.46,2025-03-26 00:00:00,04:03:02,Wednesday,March,2025
+donation,groceries,donation,17fadd9d,227.78,2025-01-25 00:00:00,06:37:53,Saturday,January,2025
+movie tickets,transportation,movie tickets,9ffd164f,29.08,2025-06-19 00:00:00,04:58:00,Thursday,June,2025
+bus ticket,fitness,bus ticket,90450448,175.58,2025-07-11 00:00:00,19:39:51,Friday,July,2025
+new phone,health,new phone,566ee6ed,402.07,2024-01-25 00:00:00,20:31:47,Thursday,January,2024
+movie tickets,utilities,movie tickets,c68b35df,352.43,2025-07-09 00:00:00,09:10:10,Wednesday,July,2025
+bought groceries,transportation,bought groceries,ff613e9c,258.4,2025-10-20 00:00:00,06:02:12,Monday,October,2025
+bought groceries,transportation,bought groceries,07eb2c73,160.62,2025-02-03 00:00:00,02:43:29,Monday,February,2025
+flight ticket,food,flight ticket,870c3729,86.99,2024-06-12 00:00:00,17:06:43,Wednesday,June,2024
+coffee,shopping,coffee,6dbc3496,372.43,2025-03-18 00:00:00,10:40:04,Tuesday,March,2025
+new phone,food,new phone,13ffbda5,197.71,2025-12-11 00:00:00,22:02:52,Thursday,December,2025
+donation,utilities,donation,fc2c23f9,295.55,2025-02-26 00:00:00,13:43:05,Wednesday,February,2025
+donation,fitness,donation,586b1b21,130.67,2024-05-21 00:00:00,15:22:13,Tuesday,May,2024
+lunch,utilities,lunch,71acf38e,220.03,2025-04-18 00:00:00,06:17:30,Friday,April,2025
+rent payment,food,rent payment,c6fa9589,231.4,2025-05-03 00:00:00,13:37:15,Saturday,May,2025
+paid college fees,transportation,paid college fees,16ed81e9,118.53,2024-04-15 00:00:00,15:49:41,Monday,April,2024
+medical prescription,transportation,medical prescription,a6767300,323.17,2024-05-14 00:00:00,01:05:42,Tuesday,May,2024
+flight ticket,housing,flight ticket,328b970f,339.14,2025-10-06 00:00:00,03:56:32,Monday,October,2025
+hospital bill,shopping,hospital bill,ada2ac66,85.86,2025-07-28 00:00:00,05:41:27,Monday,July,2025
+lunch,transportation,lunch,0280a09d,362.69,2025-10-12 00:00:00,06:36:34,Sunday,October,2025
+hotel booking,health,hotel booking,74088948,171.5,2025-02-07 00:00:00,07:46:00,Friday,February,2025
+bought groceries,fitness,bought groceries,1be60ea8,487.68,2025-10-18 00:00:00,22:42:18,Saturday,October,2025
+hotel booking,food,hotel booking,df877bd3,377.51,2025-08-21 00:00:00,11:47:25,Thursday,August,2025
+electricity bill,entertainment,electricity bill,7d6bccea,281.88,2025-08-27 00:00:00,19:51:45,Wednesday,August,2025
+online shopping,entertainment,online shopping,a3d97019,351.35,2024-12-10 00:00:00,00:08:31,Tuesday,December,2024
+donation,fitness,donation,7932073c,335.43,2024-07-01 00:00:00,07:42:42,Monday,July,2024
+bus ticket,housing,bus ticket,3f85db0d,411.25,2025-11-10 00:00:00,07:55:34,Monday,November,2025
+donation,transportation,donation,1a37c55a,32.04,2025-12-28 00:00:00,08:20:40,Sunday,December,2025
+lunch,utilities,lunch,2e351f27,12.93,2024-05-12 00:00:00,17:10:51,Sunday,May,2024
+gym membership,fitness,gym membership,507e253e,31.23,2024-03-14 00:00:00,02:26:43,Thursday,March,2024
+coffee,transportation,coffee,45e0f03d,97.84,2025-04-05 00:00:00,01:49:06,Saturday,April,2025
+bought groceries,fitness,bought groceries,f5ddafd9,283.58,2025-08-05 00:00:00,12:09:54,Tuesday,August,2025
+online shopping,fitness,online shopping,035b01bf,388.89,2024-08-10 00:00:00,21:04:39,Saturday,August,2024
+paid college fees,shopping,paid college fees,8b120596,399.43,2025-02-07 00:00:00,04:43:48,Friday,February,2025
+new phone,shopping,new phone,14741663,282.76,2025-06-12 00:00:00,17:39:32,Thursday,June,2025
+new phone,food,new phone,c837da19,65.04,2025-12-30 00:00:00,10:30:03,Tuesday,December,2025
+gym membership,food,gym membership,b816187c,193.83,2024-11-13 00:00:00,18:48:53,Wednesday,November,2024
+online shopping,utilities,online shopping,d44a4eba,6.52,2024-09-12 00:00:00,18:33:34,Thursday,September,2024
+online shopping,food,online shopping,dd09146b,142.06,2024-02-25 00:00:00,09:36:03,Sunday,February,2024
+coffee,entertainment,coffee,3722933e,493.02,2024-12-04 00:00:00,04:43:35,Wednesday,December,2024
+new phone,health,new phone,b4cd7233,331.62,2024-06-07 00:00:00,09:56:37,Friday,June,2024
+online shopping,groceries,online shopping,2344a52b,16.91,2025-04-19 00:00:00,12:35:05,Saturday,April,2025
+lunch,health,lunch,558652cf,407.36,2025-02-19 00:00:00,06:03:59,Wednesday,February,2025
+hospital bill,transportation,hospital bill,c4093647,134.9,2024-09-18 00:00:00,00:38:05,Wednesday,September,2024
+new phone,groceries,new phone,0b1f13dc,356.4,2024-12-09 00:00:00,22:12:07,Monday,December,2024
+gas station,entertainment,gas station,8b7aa29c,103.59,2025-02-26 00:00:00,06:11:09,Wednesday,February,2025
+electricity bill,entertainment,electricity bill,8e546364,412.69,2024-07-06 00:00:00,13:52:04,Saturday,July,2024
+gym membership,food,gym membership,faf95156,99.77,2024-08-21 00:00:00,10:35:38,Wednesday,August,2024
+hospital bill,health,hospital bill,87c686e2,349.42,2025-08-19 00:00:00,10:26:55,Tuesday,August,2025
+rent payment,health,rent payment,de8fbaef,225.03,2024-11-24 00:00:00,01:13:29,Sunday,November,2024
+dinner,shopping,dinner,8c499142,148.88,2025-07-06 00:00:00,15:05:38,Sunday,July,2025
+gas station,entertainment,gas station,2dc0be32,306.07,2025-01-17 00:00:00,01:51:09,Friday,January,2025
+movie tickets,shopping,movie tickets,2fef34d2,486.2,2024-11-15 00:00:00,10:12:58,Friday,November,2024
+medical prescription,fitness,medical prescription,f2d49be0,475.53,2025-01-28 00:00:00,06:52:59,Tuesday,January,2025
+bus ticket,entertainment,bus ticket,7640604f,476.11,2024-02-04 00:00:00,12:03:32,Sunday,February,2024
+lunch,utilities,lunch,a60fd2e0,129.42,2024-09-07 00:00:00,17:57:19,Saturday,September,2024
+donation,transportation,donation,d2e2548c,349.68,2024-06-20 00:00:00,08:24:32,Thursday,June,2024
+rent payment,transportation,rent payment,2dba2c6a,173.9,2025-11-04 00:00:00,01:00:22,Tuesday,November,2025
+online shopping,shopping,online shopping,0a434621,116.83,2024-08-27 00:00:00,08:21:08,Tuesday,August,2024
+flight ticket,shopping,flight ticket,154ca53b,459.81,2024-10-24 00:00:00,22:02:57,Thursday,October,2024
+new phone,fitness,new phone,555a3bf1,442.82,2024-04-17 00:00:00,03:31:41,Wednesday,April,2024
+coffee,health,coffee,f32386f8,114.08,2024-09-02 00:00:00,23:44:49,Monday,September,2024
+paid college fees,shopping,paid college fees,87fd09c0,379.13,2025-07-30 00:00:00,07:34:57,Wednesday,July,2025
+flight ticket,shopping,flight ticket,d26f09e7,380.79,2025-05-05 00:00:00,10:48:28,Monday,May,2025
+new phone,housing,new phone,9ba84720,68.08,2024-02-08 00:00:00,16:01:00,Thursday,February,2024
+bus ticket,entertainment,bus ticket,c1a14ad1,85.9,2024-04-05 00:00:00,10:42:32,Friday,April,2024
+new phone,food,new phone,c671884a,49.81,2025-04-11 00:00:00,04:23:06,Friday,April,2025
+rent payment,health,rent payment,2fe4b443,258.54,2025-04-15 00:00:00,08:35:10,Tuesday,April,2025
+dinner,transportation,dinner,c8a64bca,364.32,2024-07-07 00:00:00,15:30:29,Sunday,July,2024
+bus ticket,transportation,bus ticket,346ace41,456.59,2024-01-22 00:00:00,21:48:03,Monday,January,2024
+gas station,health,gas station,46997533,419.13,2024-10-19 00:00:00,00:08:32,Saturday,October,2024
+paid college fees,food,paid college fees,e88fcdc4,169.92,2024-06-19 00:00:00,11:14:00,Wednesday,June,2024
+new phone,entertainment,new phone,dcb922b8,410.52,2025-08-15 00:00:00,00:03:11,Friday,August,2025
+hospital bill,housing,hospital bill,1cb36c93,92.85,2025-10-10 00:00:00,17:50:07,Friday,October,2025
+online shopping,shopping,online shopping,fd539141,133.3,2025-06-22 00:00:00,19:09:30,Sunday,June,2025
+movie tickets,transportation,movie tickets,6b3f41e2,447.54,2025-08-25 00:00:00,09:48:43,Monday,August,2025
+gas station,utilities,gas station,d1339ad8,438.52,2025-08-07 00:00:00,08:08:25,Thursday,August,2025
+coffee,transportation,coffee,9ced8ef0,147.41,2024-05-23 00:00:00,03:48:44,Thursday,May,2024
+bus ticket,housing,bus ticket,e40c1013,266.31,2025-03-27 00:00:00,05:07:00,Thursday,March,2025
+coffee,entertainment,coffee,5badc570,123.31,2025-11-19 00:00:00,03:03:18,Wednesday,November,2025
+gym membership,health,gym membership,22ec8c88,379.21,2025-01-26 00:00:00,21:58:39,Sunday,January,2025
+bought groceries,groceries,bought groceries,8d4dec6c,426.52,2024-10-21 00:00:00,23:59:36,Monday,October,2024
+bus ticket,health,bus ticket,b144ae15,198.11,2024-08-19 00:00:00,10:52:44,Monday,August,2024
+rent payment,utilities,rent payment,267e1159,499.64,2025-11-15 00:00:00,17:59:58,Saturday,November,2025
+electricity bill,food,electricity bill,f1dbc19c,214.29,2025-07-07 00:00:00,10:41:47,Monday,July,2025
+electricity bill,health,electricity bill,56ecd529,136.83,2025-02-07 00:00:00,09:15:21,Friday,February,2025
+medical prescription,groceries,medical prescription,449611b3,367.2,2024-04-23 00:00:00,01:08:03,Tuesday,April,2024
+dinner,health,dinner,731120fc,265.03,2025-08-13 00:00:00,01:10:12,Wednesday,August,2025
+movie tickets,fitness,movie tickets,0e4d8dcc,479.46,2024-11-27 00:00:00,01:52:13,Wednesday,November,2024
+bought groceries,groceries,bought groceries,45c9c264,318.82,2025-07-23 00:00:00,08:50:39,Wednesday,July,2025
+medical prescription,fitness,medical prescription,914e3776,30.45,2024-06-13 00:00:00,16:47:36,Thursday,June,2024
+paid college fees,fitness,paid college fees,3b2384e8,367.72,2025-12-25 00:00:00,13:07:22,Thursday,December,2025
+rent payment,utilities,rent payment,e2e1fe29,60.06,2025-05-09 00:00:00,09:22:21,Friday,May,2025
+dinner,entertainment,dinner,c7ce24d2,272.53,2024-02-15 00:00:00,10:13:53,Thursday,February,2024
+bus ticket,entertainment,bus ticket,438a287c,140.34,2025-11-08 00:00:00,23:50:36,Saturday,November,2025
+movie tickets,utilities,movie tickets,8b2b5d15,114.25,2024-11-23 00:00:00,03:23:34,Saturday,November,2024
+medical prescription,food,medical prescription,6a7d1970,47.98,2024-04-23 00:00:00,00:54:41,Tuesday,April,2024
+hospital bill,shopping,hospital bill,da553b10,391.76,2025-06-24 00:00:00,14:05:24,Tuesday,June,2025
+movie tickets,entertainment,movie tickets,35e15e73,18.05,2025-03-21 00:00:00,01:27:53,Friday,March,2025
+donation,entertainment,donation,d4467580,319.12,2024-07-20 00:00:00,12:45:36,Saturday,July,2024
+hospital bill,housing,hospital bill,68628ce1,121.57,2025-08-29 00:00:00,16:07:33,Friday,August,2025
+flight ticket,shopping,flight ticket,ad4c458e,24.83,2024-12-06 00:00:00,06:49:15,Friday,December,2024
+new phone,utilities,new phone,c72460dd,458.6,2024-07-04 00:00:00,23:39:56,Thursday,July,2024
+online shopping,shopping,online shopping,115999dd,414.56,2025-07-26 00:00:00,10:37:00,Saturday,July,2025
+electricity bill,housing,electricity bill,55fe4e80,481.82,2024-05-18 00:00:00,03:41:15,Saturday,May,2024
+gym membership,groceries,gym membership,e12f6a80,423.26,2025-04-24 00:00:00,01:58:34,Thursday,April,2025
+hotel booking,fitness,hotel booking,fed7749a,388.55,2024-04-03 00:00:00,23:26:42,Wednesday,April,2024
+lunch,groceries,lunch,62eda7f9,53.4,2024-08-26 00:00:00,08:34:54,Monday,August,2024
+coffee,utilities,coffee,358e3da0,355.76,2025-09-11 00:00:00,09:48:43,Thursday,September,2025
+bought groceries,shopping,bought groceries,846c4714,448.27,2024-09-15 00:00:00,13:26:11,Sunday,September,2024
+donation,housing,donation,6f86259c,154.94,2025-05-15 00:00:00,21:18:00,Thursday,May,2025
+bus ticket,utilities,bus ticket,5c9c71af,74.66,2024-09-08 00:00:00,07:30:10,Sunday,September,2024
+paid college fees,shopping,paid college fees,8e2e3f34,205.7,2025-09-14 00:00:00,16:06:46,Sunday,September,2025
+paid college fees,food,paid college fees,70cf9d09,433.56,2024-05-06 00:00:00,04:25:41,Monday,May,2024
+flight ticket,entertainment,flight ticket,d76aff0b,288.52,2024-12-14 00:00:00,01:06:15,Saturday,December,2024
+paid college fees,health,paid college fees,26b635cd,289.59,2025-01-04 00:00:00,01:47:50,Saturday,January,2025
+lunch,entertainment,lunch,1a568ce1,95.88,2025-07-03 00:00:00,21:08:13,Thursday,July,2025
+bought groceries,transportation,bought groceries,8a087f55,231.56,2024-06-13 00:00:00,15:23:42,Thursday,June,2024
+flight ticket,utilities,flight ticket,bf33fe93,322.68,2024-10-07 00:00:00,12:47:20,Monday,October,2024
+rent payment,shopping,rent payment,9d098512,495.19,2024-01-29 00:00:00,10:55:35,Monday,January,2024
+luxury car purchase,fraudulent,luxury car purchase,a0a7b49d,13546.0,2025-05-10 00:00:00,03:10:50,Saturday,May,2025
+suspicious wire transfer,fraudulent,wire transfer,af4091c9,34186.0,2024-11-11 00:00:00,05:55:16,Monday,November,2024
+large bitcoin purchase,fraudulent,bitcoin purchase,7add67f6,37680.0,2024-03-04 00:00:00,06:31:07,Monday,March,2024
+unknown overseas transaction,fraudulent,overseas transaction,1bdc1766,17867.0,2024-06-06 00:00:00,19:48:14,Thursday,June,2024
+bulk jewelry purchase,fraudulent,jewelry purchase,fbf0d481,26814.0,2024-01-23 00:00:00,03:04:29,Tuesday,January,2024
+shoes,donations,shoes,18d1805,64.82,14-05-2024,19:11:56,Tuesday,May,2024
+showergel,health,showergel,137e4df,229.16,10-02-2025,04:52:13,Monday,February,2025
+taxi,groceries,taxi,55c373d,623.55,07-04-2023,09:58:38,Friday,April,2023
+medical,other,medical,35adda4,992.73,08-08-2025,07:28:52,Friday,August,2025
+pedicure,gifts,pedicure,16f6cb3,920.58,07-03-2024,16:30:03,Thursday,March,2024
+chocolate,fuel,chocolate,5897b78,221.1,13-02-2023,21:40:32,Monday,February,2023
+meal,personal care,meal,16fdcd4,368.99,30-06-2023,03:45:25,Friday,June,2023
+fill petrol,donations,fill petrol,591685c,202.91,19-01-2025,20:35:20,Sunday,January,2025
+clothes,gifts,clothes,41b619a,437.8,29-09-2023,20:38:31,Friday,September,2023
+donations,groceries,donations,3ae3faa,209.78,27-09-2023,04:23:36,Wednesday,September,2023
+tea lights,food,tea lights,5a9ffaf,123.58,12-05-2024,18:06:02,Sunday,May,2024
+subway fare,fuel,subway fare,4949542,608.79,22-04-2024,12:57:14,Monday,April,2024
+amazon prime,donations,amazon prime,2b3e627,752.21,28-11-2023,21:47:36,Tuesday,November,2023
+pizza,health,pizza,267a20f,690.01,24-09-2023,07:53:33,Sunday,September,2023
+sporting events,other,sporting events,36e8a0c,15.19,27-01-2023,06:54:43,Friday,January,2023
+fill petrol,donations,fill petrol,13502bc,799.77,02-02-2024,01:33:15,Friday,February,2024
+milk,dining,milk,55c925c,816.96,21-12-2025,02:11:28,Sunday,December,2025
+bought groceries,fuel,bought groceries,45484af,642.64,10-08-2023,21:51:23,Thursday,August,2023
+amazon prime,entertainment,amazon prime,4712ff9,572.93,01-09-2024,18:40:29,Sunday,September,2024
+phone bill,groceries,phone bill,38b30de,126.86,20-04-2025,05:05:54,Sunday,April,2025
+uber,gifts,uber,cf5e06,527.36,30-03-2023,06:53:48,Thursday,March,2023
+snack,grooming,snack,1efa657,466.9,15-08-2024,17:05:40,Thursday,August,2024
+grocery shopping,housing,grocery shopping,139deaa,467.15,11-10-2023,19:16:44,Wednesday,October,2023
+taxi,donations,taxi,23857f7,920.55,10-04-2023,08:21:34,Monday,April,2023
+bought groceries,personal care,bought groceries,477c198,349.01,07-05-2024,16:03:54,Tuesday,May,2024
+car wash,other,car wash,40e926f,891.87,02-08-2023,21:24:46,Wednesday,August,2023
+coffee,housing,coffee,1b3b186,837.48,07-02-2023,22:16:21,Tuesday,February,2023
+rent,other,rent,3fcb92b,218.78,14-05-2025,05:53:21,Wednesday,May,2025
+car payment,education,car payment,ce7cf8,119.82,22-06-2024,20:05:15,Saturday,June,2024
+uber,donations,uber,44ffd68,972.86,21-08-2024,02:29:40,Wednesday,August,2024
+parking,fitness,parking,59dacbc,434.91,31-12-2023,04:58:33,Sunday,December,2023
+internet bill,utilities,internet bill,4228b50,719.43,17-02-2025,09:53:04,Monday,February,2025
+overseas transaction,entertainment,overseas transaction,27b1f68,77.55,15-10-2023,14:26:42,Sunday,October,2023
+metro,food,metro,cb9489,918.32,28-12-2025,21:55:48,Sunday,December,2025
+paid school fees,fitness,paid school fees,25b0fee,512.13,11-09-2023,10:03:27,Monday,September,2023
+amazon prime,grooming,amazon prime,1e55791,888.59,23-09-2024,17:12:58,Monday,September,2024
+purchase notebook,shopping,purchase notebook,3084bd4,774.29,12-11-2023,09:51:53,Sunday,November,2023
+ice cream,groceries,ice cream,1525b82,228.38,18-04-2023,17:43:00,Tuesday,April,2023
+breakfast,fuel,breakfast,55cb724,962.78,24-07-2024,20:00:27,Wednesday,July,2024
+movie tickets,utilities,movie tickets,50a2d65,150.97,12-04-2025,01:42:20,Saturday,April,2025
+manicure,dining,manicure,4d0c383,278.51,14-12-2023,11:58:25,Thursday,December,2023
+bus ticket,food,bus ticket,4c2df31,448.85,16-11-2023,06:50:35,Thursday,November,2023
+phone,personal care,phone,2a2671d,826.15,24-01-2023,17:43:27,Tuesday,January,2023
+pedicure,housing,pedicure,ae59d7,961.31,01-07-2024,04:17:18,Monday,July,2024
+milk,fitness,milk,1ea703c,296.34,01-12-2024,16:46:27,Sunday,December,2024
+car payment,housing,car payment,2192ac6,606.68,19-05-2023,06:24:43,Friday,May,2023
+concerts,donations,concerts,59ce55e,383.38,22-11-2023,17:43:14,Wednesday,November,2023
+pedicure,fitness,pedicure,a7911c,29.46,29-09-2025,07:03:30,Monday,September,2025
+bun,personal care,bun,532c212,185.46,20-08-2023,00:59:30,Sunday,August,2023
+mirror,food,mirror,33de87b,115.13,20-05-2024,18:12:10,Monday,May,2024
+concerts,transportation,concerts,3039d56,407.63,07-01-2024,11:25:25,Sunday,January,2024
+breakfast,education,breakfast,2d3f0e5,315.75,14-06-2024,18:58:13,Friday,June,2024
+wire transfer,fuel,wire transfer,468d507,259.11,10-02-2025,08:01:25,Monday,February,2025
+lunch,groceries,lunch,3fba47b,629.35,15-01-2023,15:06:18,Sunday,January,2023
+online shopping,utilities,online shopping,5cf6c2f,567.73,26-04-2023,20:06:31,Wednesday,April,2023
+brownie,personal care,brownie,100488c,21.53,17-08-2023,11:58:01,Thursday,August,2023
+meal,food,meal,5cf75ec,831.81,05-12-2024,12:52:52,Thursday,December,2024
+brunch,travel,brunch,44ce7b2,731.43,12-06-2025,02:30:27,Thursday,June,2025
+gifts,food,gifts,27db84f,672.21,06-11-2025,19:09:56,Thursday,November,2025
+zomato,fitness,zomato,56481ee,317.41,14-08-2023,01:39:47,Monday,August,2023
+coconut water,groceries,coconut water,5d89b62,906.42,27-12-2023,03:25:31,Wednesday,December,2023
+eggs,shopping,eggs,13fcdaf,633.79,19-12-2023,16:00:10,Tuesday,December,2023
+tea lights,health,tea lights,165bce2,674.41,22-03-2023,05:03:25,Wednesday,March,2023
+paid college fees,entertainment,paid college fees,28829c8,902.84,17-01-2024,23:32:01,Wednesday,January,2024
+gas station,entertainment,gas station,16ff23a,317.15,24-03-2024,08:16:08,Sunday,March,2024
+snack,housing,snack,2b4707a,142.63,07-11-2023,01:48:57,Tuesday,November,2023
+banana,other,banana,3b81554,976.78,17-01-2024,07:22:39,Wednesday,January,2024
+electricity bill,shopping,electricity bill,2e86717,476.97,26-08-2025,01:30:50,Tuesday,August,2025
+medical expenses,utilities,medical expenses,1a757f8,522.83,29-04-2025,08:17:39,Tuesday,April,2025
+jewelry purchase,groceries,jewelry purchase,5366200,523.22,05-07-2025,09:44:55,Saturday,July,2025
+health insurance,personal care,health insurance,4619d37,200.79,15-11-2024,08:53:43,Friday,November,2024
+pedicure,gifts,pedicure,3971f7c,199.45,10-10-2025,10:44:51,Friday,October,2025
+phone,health,phone,291f035,596.7,10-04-2023,01:38:48,Monday,April,2023
+subscriptions,gifts,subscriptions,b1fcf0,288.9,14-02-2024,20:43:43,Wednesday,February,2024
+zomato,donations,zomato,a2d3f3,48.42,14-06-2025,17:25:46,Saturday,June,2025
+corn,fraudulent,corn,30d25b8,871.52,28-12-2025,08:13:22,Sunday,December,2025
+rent,food,rent,5876689,466.42,22-06-2024,21:37:33,Saturday,June,2024
+dentist,entertainment,dentist,3073b0e,571.09,12-06-2024,12:48:20,Wednesday,June,2024
+momos,health,momos,38cada6,815.61,30-09-2023,13:53:45,Saturday,September,2023
+rent,fitness,rent,3dfd6c5,192.76,31-01-2024,08:17:23,Wednesday,January,2024
+phone,groceries,phone,4d353ee,968.19,02-02-2023,15:02:58,Thursday,February,2023
+metro,fuel,metro,293d241,444.02,30-12-2024,05:31:54,Monday,December,2024
+purchase notebook,housing,purchase notebook,59ee351,956.61,20-01-2025,13:07:46,Monday,January,2025
+medicine,education,medicine,431ed6e,186.95,29-03-2023,12:29:11,Wednesday,March,2023
+haircut,shopping,haircut,4e3f1c7,564.51,07-09-2024,12:23:08,Saturday,September,2024
+overseas transaction,fitness,overseas transaction,585acc3,813.59,20-02-2024,02:52:15,Tuesday,February,2024
+cab,fitness,cab,5bd7839,729.33,22-12-2023,23:31:08,Friday,December,2023
+travel,groceries,travel,18cb550,240.31,29-06-2025,09:07:57,Sunday,June,2025
+parking,groceries,parking,1e71754,149.9,02-04-2023,11:55:09,Sunday,April,2023
+auto,fraudulent,auto,511b3a6,340.71,09-10-2024,01:25:26,Wednesday,October,2024
+donation,fraudulent,donation,2508851,103.1,28-05-2025,13:35:25,Wednesday,May,2025
+bitcoin purchase,fitness,bitcoin purchase,a8a641,608.85,08-12-2023,14:59:03,Friday,December,2023
+biscuit,food,biscuit,19b598d,165.82,10-10-2025,12:11:32,Friday,October,2025
+clothes,utilities,clothes,48d79f2,75.79,23-12-2023,02:48:58,Saturday,December,2023
+internet bill,personal care,internet bill,4c6dfee,662.03,28-09-2025,04:12:33,Sunday,September,2025
+corn,grooming,corn,5babca9,443.15,04-07-2023,03:33:39,Tuesday,July,2023
+internet bill,groceries,internet bill,290ec75,693.97,04-04-2025,15:58:48,Friday,April,2025
+parking,gifts,parking,257cfb4,165.98,22-02-2023,02:02:01,Wednesday,February,2023
+medical expenses,personal care,medical expenses,4c76429,600.89,16-03-2024,07:34:53,Saturday,March,2024
+cab,shopping,cab,1ec8d6a,167.05,11-01-2023,03:27:26,Wednesday,January,2023
+pedicure,fuel,pedicure,4615580,120.76,29-08-2024,23:56:24,Thursday,August,2024
+bread,donations,bread,452c07b,172.06,10-05-2025,22:55:35,Saturday,May,2025
+bitcoin purchase,groceries,bitcoin purchase,fd5270,810.38,06-11-2023,19:12:38,Monday,November,2023
+medical,travel,medical,5e1d963,765.85,13-03-2024,16:28:44,Wednesday,March,2024
+dentist,travel,dentist,df835f,525.28,05-01-2024,04:15:55,Friday,January,2024
+college fees payment,fraudulent,college fees payment,2baf53a,467.01,10-01-2025,00:04:24,Friday,January,2025
+mask,entertainment,mask,17defd4,910.14,18-06-2023,12:02:04,Sunday,June,2023
+meal,travel,meal,34e63dc,201.96,10-09-2024,04:01:24,Tuesday,September,2024
+lunch,shopping,lunch,4b76287,683.89,21-09-2023,19:18:48,Thursday,September,2023
+gasoline,food,gasoline,409aae2,690.5,14-01-2025,07:49:43,Tuesday,January,2025
+breakfast,entertainment,breakfast,353b867,596.37,01-04-2023,21:15:41,Saturday,April,2023
+phone,donations,phone,2de6af6,689.85,22-05-2023,01:50:17,Monday,May,2023
+corn,housing,corn,1fbc58f,494.08,06-09-2023,09:25:18,Wednesday,September,2023
+mcdonald,groceries,mcdonald,330f8dd,648.92,31-08-2024,06:52:01,Saturday,August,2024
+cab,donations,cab,342a132,915.69,21-01-2025,03:07:36,Tuesday,January,2025
+bun,transportation,bun,20aaece,26.57,20-12-2025,15:42:10,Saturday,December,2025
+metro,education,metro,3820dd0,388.35,18-08-2024,11:37:50,Sunday,August,2024
+car payment,health,car payment,244ae78,193.8,31-08-2024,18:24:13,Saturday,August,2024
+recharge mobile,travel,recharge mobile,3d093bc,999.04,24-12-2023,13:59:35,Sunday,December,2023
+bus ticket,donations,bus ticket,5c68de2,403.26,31-01-2025,05:20:37,Friday,January,2025
+bun,utilities,bun,560e5df,142.49,14-04-2024,05:10:09,Sunday,April,2024
+ice cream,fuel,ice cream,5d5d926,463.11,18-08-2025,06:02:17,Monday,August,2025
+corn,gifts,corn,41b0483,48.5,14-03-2024,02:07:54,Thursday,March,2024
+eye glasses,education,eye glasses,5b96c94,977.99,31-05-2025,21:32:21,Saturday,May,2025
+auto,travel,auto,2f77a43,632.8,17-01-2023,05:56:38,Tuesday,January,2023
+pet expenses,shopping,pet expenses,4ae18b4,855.03,24-01-2023,02:28:22,Tuesday,January,2023
+overseas transaction,shopping,overseas transaction,292d0bf,748.6,11-11-2025,06:01:46,Tuesday,November,2025
+paid college fees,entertainment,paid college fees,47a6d79,812.48,14-06-2024,15:14:05,Friday,June,2024
+mirror,gifts,mirror,2e680a6,395.8,27-07-2024,08:37:39,Saturday,July,2024
+keratin treatment,transportation,keratin treatment,4ef0e96,27.78,07-05-2025,00:38:47,Wednesday,May,2025
+eye glasses,personal care,eye glasses,40a5b05,390.95,28-09-2024,10:02:14,Saturday,September,2024
+shoes,dining,shoes,294389e,414.33,13-06-2024,07:43:37,Thursday,June,2024
+health insurance,shopping,health insurance,3796fa6,646.84,26-12-2024,02:50:46,Thursday,December,2024
+sporting events,donations,sporting events,2912125,50.32,07-09-2024,10:32:31,Saturday,September,2024
+cab,fraudulent,cab,3f83d9c,827.23,12-10-2024,07:57:29,Saturday,October,2024
+brunch,other,brunch,48e4e10,300.02,23-03-2025,00:16:28,Sunday,March,2025
+medical,fraudulent,medical,420627c,506.95,26-02-2023,05:06:45,Sunday,February,2023
+internet,fuel,internet,3300aeb,883.01,08-09-2023,22:01:31,Friday,September,2023
+medical prescription,transportation,medical prescription,1b1e307,116.25,20-03-2025,11:03:41,Thursday,March,2025
+rent,personal care,rent,52131a9,398.42,11-10-2023,23:08:41,Wednesday,October,2023
+flights,shopping,flights,9d2f0d,303.5,03-08-2023,19:39:50,Thursday,August,2023
+doctor,education,doctor,d1c140,178.49,13-03-2024,07:21:09,Wednesday,March,2024
+home repair,groceries,home repair,16450c9,859.12,08-04-2023,07:07:32,Saturday,April,2023
+gym,housing,gym,324fa03,983.98,08-03-2025,18:22:52,Saturday,March,2025
+hoodie,personal care,hoodie,31b308f,525.49,05-05-2023,00:12:18,Friday,May,2023
+gasoline,personal care,gasoline,3cb506c,512.15,18-12-2025,13:18:45,Thursday,December,2025
+shoes,utilities,shoes,25e8873,452.59,16-10-2024,09:27:12,Wednesday,October,2024
+pepsi,other,pepsi,503d286,411.72,11-01-2025,18:36:02,Saturday,January,2025
+yoga classes,shopping,yoga classes,ac1474,484.45,27-07-2025,22:40:08,Sunday,July,2025
+auto,other,auto,26f62cd,682.07,19-12-2025,02:13:06,Friday,December,2025
+gym membership,shopping,gym membership,1bd5213,182.6,24-11-2024,07:05:16,Sunday,November,2024
+pet expenses,other,pet expenses,b6da9a,992.62,06-04-2023,21:52:57,Thursday,April,2023
+hospital bill,travel,hospital bill,5008b42,339.23,07-07-2023,10:13:02,Friday,July,2023
+amazon prime,entertainment,amazon prime,3258ce0,963.88,30-04-2024,22:04:06,Tuesday,April,2024
+fruit,food,fruit,33d3402,689.83,08-08-2024,13:54:18,Thursday,August,2024
+amazon prime,personal care,amazon prime,3833916,425.09,15-12-2025,06:50:06,Monday,December,2025
+hospital,shopping,hospital,21561d4,393.34,23-02-2025,22:20:50,Sunday,February,2025
+pedicure,other,pedicure,25e9811,944.42,30-03-2025,00:21:56,Sunday,March,2025
+amazon prime,gifts,amazon prime,2ef9acc,991.03,06-10-2023,23:57:50,Friday,October,2023
+mask,food,mask,a5307f,589.66,17-12-2023,19:33:24,Sunday,December,2023
+showergel,fitness,showergel,59d5590,520.32,08-12-2025,09:30:20,Monday,December,2025
+gym,donations,gym,3f60552,160.97,19-06-2024,10:22:56,Wednesday,June,2024
+bought groceries,transportation,bought groceries,4e00a4a,80.51,28-04-2024,07:39:16,Sunday,April,2024
+clothing,donations,clothing,43f1c88,906.43,17-04-2023,21:15:00,Monday,April,2023
+home repair,transportation,home repair,4074f11,254.55,03-10-2025,03:02:32,Friday,October,2025
+water,education,water,3f6d0d7,297.22,06-06-2024,05:21:05,Thursday,June,2024
+concerts,personal care,concerts,2648a9f,391.7,01-09-2025,20:31:11,Monday,September,2025
+bought groceries,housing,bought groceries,2b47b65,43.55,25-06-2025,05:56:15,Wednesday,June,2025
+paid school fees,personal care,paid school fees,c16b08,858.35,07-09-2023,07:52:53,Thursday,September,2023
+zomato,dining,zomato,3e20191,45.81,19-07-2023,13:27:52,Wednesday,July,2023
+metro,health,metro,b0861c,437.59,03-01-2023,10:43:32,Tuesday,January,2023
+bitcoin purchase,fraudulent,bitcoin purchase,448eca4,325.52,14-03-2023,20:01:50,Tuesday,March,2023
+biscuit,utilities,biscuit,4787475,885.23,27-04-2024,03:08:24,Saturday,April,2024
+home repair,housing,home repair,25bea9d,947.88,09-10-2025,01:46:36,Thursday,October,2025
+coconut water,donations,coconut water,4d31123,16.99,24-12-2024,05:41:50,Tuesday,December,2024
+flights,grooming,flights,12b90a6,429.19,13-01-2025,00:03:40,Monday,January,2025
+pedicure,transportation,pedicure,16feee2,896.34,14-01-2023,16:21:00,Saturday,January,2023
+subscriptions,entertainment,subscriptions,40982cf,363.49,06-08-2024,04:08:24,Tuesday,August,2024
+travel,utilities,travel,1d50eaa,339.44,31-07-2024,07:35:47,Wednesday,July,2024
+hospital bill,shopping,hospital bill,561db5c,592.16,19-07-2023,16:56:25,Wednesday,July,2023
+doctor,travel,doctor,25f055c,883.36,05-02-2024,13:15:39,Monday,February,2024
+ramen gobi,food,ramen gobi,21ca106,813.5,01-02-2025,02:33:50,Saturday,February,2025
+drinks,travel,drinks,1122e9a,927.11,05-11-2023,01:02:58,Sunday,November,2023
+gas station,other,gas station,5b73a6a,803.43,09-04-2024,14:29:15,Tuesday,April,2024
+milk,other,milk,31671df,966.35,10-10-2023,11:35:45,Tuesday,October,2023
+yoga classes,groceries,yoga classes,44ecd1b,500.98,24-02-2023,21:21:25,Friday,February,2023
+public transportation,dining,public transportation,49dccc9,673.26,29-01-2025,06:26:05,Wednesday,January,2025
+overseas transaction,grooming,overseas transaction,4fc6238,120.04,21-11-2023,21:27:06,Tuesday,November,2023
+flights,fitness,flights,19efd85,537.8,04-06-2024,15:10:25,Tuesday,June,2024
+eggs,education,eggs,5b2810d,163.3,01-10-2024,12:50:28,Tuesday,October,2024
+books,dining,books,599289b,143.32,10-07-2024,00:26:00,Wednesday,July,2024
+tea lights,shopping,tea lights,355d74e,981.08,09-03-2025,02:14:33,Sunday,March,2025
+movie tickets,food,movie tickets,4e7a28b,839.17,18-12-2023,00:51:21,Monday,December,2023
+prescriptions,gifts,prescriptions,47ad41b,172.42,14-12-2025,01:46:08,Sunday,December,2025
+chocolate,food,chocolate,225c3a7,570.9,27-12-2024,03:54:41,Friday,December,2024
+public transportation,fuel,public transportation,1f248a4,621.18,07-01-2024,17:58:26,Sunday,January,2024
+keratin treatment,gifts,keratin treatment,22776ac,30.0,10-10-2024,00:37:19,Thursday,October,2024
+books,groceries,books,5f2c555,702.6,05-08-2025,09:23:53,Tuesday,August,2025
+fruit,food,fruit,2aa640d,533.55,23-12-2025,04:15:48,Tuesday,December,2025
+mortage,groceries,mortage,1a68122,506.53,30-03-2023,14:44:13,Thursday,March,2023
+tolls,fraudulent,tolls,5e38a74,814.12,30-12-2024,13:52:38,Monday,December,2024
+phone bill,travel,phone bill,308ecea,238.65,15-03-2023,08:20:16,Wednesday,March,2023
+yoga classes,grooming,yoga classes,2610283,762.19,18-06-2025,04:08:34,Wednesday,June,2025
+brunch,personal care,brunch,3e580c5,856.39,22-07-2024,23:25:12,Monday,July,2024
+restaurant bill,utilities,restaurant bill,3aebcd9,81.15,31-08-2025,23:25:18,Sunday,August,2025
+hospital,other,hospital,5040adc,826.91,22-01-2024,15:33:13,Monday,January,2024
+gym,grooming,gym,1f6ffaf,381.38,24-08-2025,23:49:40,Sunday,August,2025
+books,transportation,books,4b3fd00,176.92,03-12-2024,09:21:00,Tuesday,December,2024
+internet,donations,internet,40ed4a8,83.07,09-03-2024,13:42:12,Saturday,March,2024
+clothes,fitness,clothes,1cdfb05,422.87,09-08-2025,08:28:14,Saturday,August,2025
+subscriptions,housing,subscriptions,297d654,748.55,26-02-2023,13:46:15,Sunday,February,2023
+gasoline,grooming,gasoline,5ca3a50,917.09,18-12-2025,06:54:23,Thursday,December,2025
+zomato,travel,zomato,5657bb6,571.93,04-02-2023,12:10:12,Saturday,February,2023
+purchase notebook,travel,purchase notebook,136d7cd,419.69,07-05-2024,10:37:52,Tuesday,May,2024
+gasoline,food,gasoline,cba505,150.05,29-03-2023,12:58:58,Wednesday,March,2023
+eye glasses,housing,eye glasses,5899583,533.98,08-04-2025,16:03:23,Tuesday,April,2025
+recharge mobile,fitness,recharge mobile,1688e37,799.52,07-10-2023,11:00:14,Saturday,October,2023
+clothing,dining,clothing,4953f3c,628.16,05-06-2025,18:35:40,Thursday,June,2025
+pet expenses,grooming,pet expenses,23e73cb,802.56,04-06-2024,05:12:28,Tuesday,June,2024
+mirror,food,mirror,1a88459,926.5,13-02-2023,09:13:15,Monday,February,2023
+mask,grooming,mask,1797042,732.76,17-06-2024,02:11:53,Monday,June,2024
+movie tickets,gifts,movie tickets,1677bb4,556.59,09-01-2025,19:01:46,Thursday,January,2025
+online shopping,other,online shopping,d2bad7,27.85,26-07-2024,16:13:48,Friday,July,2024
+travel,food,travel,220fd97,404.72,11-11-2025,02:45:37,Tuesday,November,2025
+books,housing,books,156c5ed,130.95,30-01-2023,04:25:02,Monday,January,2023
+car payment,other,car payment,2477ad0,723.26,16-03-2024,09:11:18,Saturday,March,2024
+electricity bill,donations,electricity bill,591bce7,889.82,05-12-2023,10:37:54,Tuesday,December,2023
+clothes,travel,clothes,32d5545,593.55,30-03-2023,08:06:04,Thursday,March,2023
+manicure,fitness,manicure,4a6d305,662.56,21-10-2025,09:40:05,Tuesday,October,2025
+donations,other,donations,413c1dc,166.85,25-12-2023,05:24:04,Monday,December,2023
+brownie,health,brownie,2f1a9e9,619.76,03-09-2024,01:42:29,Tuesday,September,2024
+prescriptions,donations,prescriptions,266f801,984.56,07-10-2024,23:23:44,Monday,October,2024
+gas station,travel,gas station,4fee824,229.63,10-02-2024,17:47:38,Saturday,February,2024
+mortage,other,mortage,4bcf0ab,617.71,15-01-2025,19:52:48,Wednesday,January,2025
+yoga classes,housing,yoga classes,4d489d8,932.25,23-08-2025,18:17:28,Saturday,August,2025
+bread,food,bread,46b3843,568.74,02-09-2025,05:22:26,Tuesday,September,2025
+mcdonald,transportation,mcdonald,3135533,317.19,05-02-2023,00:43:56,Sunday,February,2023
+netflix,fraudulent,netflix,2a07794,199.84,06-06-2023,04:30:12,Tuesday,June,2023
+home repair,donations,home repair,3dccf53,782.78,14-09-2025,18:23:22,Sunday,September,2025
+donation,dining,donation,27da382,446.84,23-03-2025,08:55:43,Sunday,March,2025
+car wash,food,car wash,35b5aea,871.75,23-06-2023,12:45:33,Friday,June,2023
+netflix,health,netflix,44b6484,611.5,16-04-2025,23:12:06,Wednesday,April,2025
+parking,groceries,parking,2a5a418,134.38,25-12-2024,20:24:24,Wednesday,December,2024
+clothing,transportation,clothing,3fa7292,298.73,19-07-2025,08:30:25,Saturday,July,2025
+vacations,grooming,vacations,226a641,333.68,24-01-2023,08:39:56,Tuesday,January,2023
+zomato,gifts,zomato,5b4b40b,880.88,03-10-2023,17:12:40,Tuesday,October,2023
+clothes,travel,clothes,46b0e25,350.87,29-05-2025,17:09:20,Thursday,May,2025
+concerts,food,concerts,3be45dd,424.32,02-12-2024,07:51:54,Monday,December,2024
+bitcoin purchase,fuel,bitcoin purchase,269050d,954.22,02-07-2023,13:53:00,Sunday,July,2023
+gas station,gifts,gas station,2b014b7,835.01,03-09-2024,18:16:13,Tuesday,September,2024
+clothes,fraudulent,clothes,5210044,109.17,10-05-2023,14:08:57,Wednesday,May,2023
+recharge mobile,transportation,recharge mobile,10c458c,968.77,27-01-2024,19:30:00,Saturday,January,2024
+internet,food,internet,5a3a7a8,567.47,26-02-2025,23:05:17,Wednesday,February,2025
+medical,grooming,medical,b3c1cc,75.11,19-04-2025,22:48:31,Saturday,April,2025
+wire transfer,other,wire transfer,14a967f,429.22,07-11-2025,10:47:34,Friday,November,2025
+internet,gifts,internet,52f3b6c,332.13,13-06-2023,08:41:07,Tuesday,June,2023
+car payment,groceries,car payment,10bcf61,360.83,02-11-2024,15:36:42,Saturday,November,2024
+hotel booking,transportation,hotel booking,1365b45,661.78,29-06-2023,21:30:22,Thursday,June,2023
+coffee,shopping,coffee,57aead1,130.36,26-02-2023,22:04:17,Sunday,February,2023
+belt,groceries,belt,42d3906,928.57,17-07-2024,21:19:44,Wednesday,July,2024
+bitcoin purchase,health,bitcoin purchase,5c29413,281.37,30-03-2025,19:44:49,Sunday,March,2025
+drinks,food,drinks,425441a,747.79,07-12-2025,00:53:32,Sunday,December,2025
+hospital bill,fuel,hospital bill,4d6bb5f,634.14,28-12-2024,07:43:43,Saturday,December,2024
+grocery shopping,fraudulent,grocery shopping,10b931c,577.67,05-02-2024,20:49:39,Monday,February,2024
+subway fare,education,subway fare,2a4cd4a,32.88,28-06-2024,09:23:57,Friday,June,2024
+parking,transportation,parking,d6f5b1,634.58,03-12-2025,01:32:15,Wednesday,December,2025
+manicure,dining,manicure,1e3bdc2,667.75,30-07-2024,08:26:27,Tuesday,July,2024
+wire transfer,gifts,wire transfer,427ee17,533.17,26-06-2023,02:08:28,Monday,June,2023
+tea lights,fraudulent,tea lights,577feee,319.8,10-07-2023,09:01:01,Monday,July,2023
+prescriptions,fuel,prescriptions,300bfdc,910.36,15-10-2023,04:59:21,Sunday,October,2023
+medical,utilities,medical,2ab6b57,870.89,12-08-2024,10:05:53,Monday,August,2024
+car wash,utilities,car wash,55c952e,808.88,21-01-2023,02:23:03,Saturday,January,2023
+flights,other,flights,1064062,75.84,08-04-2024,06:17:13,Monday,April,2024
+public transportation,food,public transportation,1d6500b,242.81,07-02-2023,11:22:25,Tuesday,February,2023
+medical prescription,groceries,medical prescription,3f9bf75,578.84,18-05-2024,14:53:10,Saturday,May,2024
+dinner,donations,dinner,2637330,729.43,05-11-2023,00:48:44,Sunday,November,2023
+bitcoin purchase,fuel,bitcoin purchase,29da31d,357.57,25-09-2025,11:21:14,Thursday,September,2025
+public transportation,gifts,public transportation,3bf1d42,572.96,09-06-2025,22:21:33,Monday,June,2025
+medical expenses,travel,medical expenses,49d3159,185.31,19-08-2025,02:33:23,Tuesday,August,2025
+gas station,travel,gas station,4116b03,351.93,27-11-2025,11:23:50,Thursday,November,2025
+corn,health,corn,412273b,790.51,18-01-2024,09:57:16,Thursday,January,2024
+showergel,fraudulent,showergel,5588201,777.56,01-12-2023,13:27:44,Friday,December,2023
+fruit,other,fruit,c91441,308.25,24-01-2025,01:28:42,Friday,January,2025
+hoodie,food,hoodie,3ad8174,212.59,09-10-2025,12:55:43,Thursday,October,2025
+paid school fees,donations,paid school fees,31cfa85,910.17,15-12-2023,21:34:02,Friday,December,2023
+mask,shopping,mask,50333a3,516.05,31-01-2023,09:53:39,Tuesday,January,2023
+bus ticket,donations,bus ticket,18179cf,236.5,26-10-2023,08:36:38,Thursday,October,2023
+clothes,personal care,clothes,5dc5cad,905.56,01-09-2023,23:26:38,Friday,September,2023
+gym,food,gym,1f1b01f,445.98,02-05-2023,17:31:49,Tuesday,May,2023
+medical expenses,fuel,medical expenses,16a12e8,249.53,20-03-2024,08:41:49,Wednesday,March,2024
+banana,health,banana,4677575,564.16,08-05-2025,08:31:47,Thursday,May,2025
+subscriptions,fraudulent,subscriptions,19822e7,730.76,03-10-2024,22:50:56,Thursday,October,2024
+auto,gifts,auto,4d8eab0,191.51,21-10-2024,11:54:21,Monday,October,2024
+mirror,other,mirror,4c79a1b,760.01,11-08-2023,05:56:22,Friday,August,2023
+jewelry purchase,shopping,jewelry purchase,3211fa8,398.24,18-11-2024,08:33:46,Monday,November,2024
+mask,travel,mask,4846539,995.13,25-05-2024,21:49:32,Saturday,May,2024
+medical prescription,entertainment,medical prescription,afb15e,358.94,10-06-2023,18:48:07,Saturday,June,2023
+jewelry purchase,personal care,jewelry purchase,36b4956,192.95,14-04-2024,10:03:06,Sunday,April,2024
+car wash,food,car wash,33b4c8f,980.53,14-10-2023,22:38:15,Saturday,October,2023
+rent,travel,rent,59939b4,618.85,13-01-2025,17:38:57,Monday,January,2025
